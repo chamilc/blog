@@ -77,12 +77,12 @@ comparison. Refer this link for theoretical values [Hand's Ranking][link1].
 [link4]: http://www.scipy.org/
 [link5]: https://github.com/tssutha/PokerSimulator
 [link6]: http://www.parade.com/172290/ellenleikind/life-lessons-from-poker-dont-play-the-cards-play-the-people/
-[img1]: /geveoblog/img/pokerbar.png "Bar Chart : Probability of each rank after 10000 shuffles"
-[img2]: /geveoblog/img/pokerpie.png "Pie Chart : Probability of each rank after 10000 shuffles"
-[img3]: /geveoblog/img/pokerline.png "Number of occurrences of each rank in 10000 shuffles, repeated 10 times"
-[img4]: /geveoblog/img/codesnipet.png
-[img5]: /geveoblog/img/codesnippet2.png
-[img6]: /geveoblog/img/compare.png
-[img7]: /geveoblog/img/poker.jpg
+[img1]: /blog/img/pokerbar.png "Bar Chart : Probability of each rank after 10000 shuffles"
+[img2]: /blog/img/pokerpie.png "Pie Chart : Probability of each rank after 10000 shuffles"
+[img3]: /blog/img/pokerline.png "Number of occurrences of each rank in 10000 shuffles, repeated 10 times"
+[img4]: /blog/img/codesnipet.png
+[img5]: /blog/img/codesnippet2.png
+[img6]: /blog/img/compare.png
+[img7]: /blog/img/poker.jpg
 
 
