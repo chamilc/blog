@@ -8,7 +8,7 @@ author:
   url: "http://www.geveo.com"
 
 # Build settings
-baseurl: /geveoblog # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
