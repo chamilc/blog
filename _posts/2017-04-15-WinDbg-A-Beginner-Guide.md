@@ -104,6 +104,6 @@ your feedback if it was useful.
 [link2]: http://windows.microsoft.com/en-us/windows/home
 [link3]: http://msdn.microsoft.com/en-sg/windows/hardware/hh852365.aspx
 [link4]: http://msdn.microsoft.com/en-us/library/windows/hardware/ff558847%28v=vs.85%29.aspx
-[img1]: /blog/img/debugging.png "http://xkcd.com/583/"
+[img1]:  /img/debugging.png "http://xkcd.com/583/"
 [link5]: http://xkcd.com/583/
 
