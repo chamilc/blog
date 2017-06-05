@@ -1,0 +1,38 @@
+# Site settings
+title: Blogs | Life @ Geveo!!!   
+description: "Place to know the life at Geveo."
+url: "http://www.geveo.com/blog"
+author:
+  name: "Geveo Australasia"
+  email: "hello@geveo.com"
+  url: "http://www.geveo.com"
+
+# Build settings
+baseurl: /geveoblog # Change this to your relative path (ex: /blog/), or leave just a /
+markdown: kramdown
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 8
+paginate_path: /page:num/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Plugins
+gems:
+  - jekyll-paginate
+
+# Custom variables
+version: "1.1.0"
+
+# Options
+custom_header: false
+custom_nav_footer: false
+reverse: false
