@@ -1,11 +1,11 @@
 # Site settings
 title: Blogs | Life @ Geveo!!!   
 description: "Place to know the life at Geveo."
-url: "http://blog.geveo.com"
+url: "http://lahirukaushalya.github.io"
 author:
   name: "Geveo Australasia"
   email: "hello@geveo.com"
-  url: "http://www.geveo.com"
+  url: "http://lahirukaushalya.github.io"
 
 # Build settings
 baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
