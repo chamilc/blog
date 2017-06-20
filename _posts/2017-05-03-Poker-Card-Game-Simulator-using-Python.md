@@ -83,6 +83,6 @@ comparison. Refer this link for theoretical values [Hand's Ranking][link1].
 [img4]: /img/codesnipet.png
 [img5]: /img/codesnippet2.png
 [img6]: /img/compare.png
-[img7]: /img/poker.jpg
+[img7]: {{ site.baseurl }}/img/poker.jpg
 
 
