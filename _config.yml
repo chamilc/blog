@@ -29,7 +29,7 @@ defaults:
 gems:
   - jekyll-paginate
 
-disque:
+disqus:
   - shortname: geveo-com
   
 # Custom variables
