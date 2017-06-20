@@ -30,7 +30,7 @@ gems:
   - jekyll-paginate
 
 disqus:
-  - shortname: geveo-com
+  - shortname: https-lahirukaushalya-github-io-blog
   
 # Custom variables
 version: "1.1.0"
