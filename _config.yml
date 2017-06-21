@@ -24,11 +24,13 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      
+#user names
+facebook_username:  (+94)776915528
 
 # Plugins
 gems:
   - jekyll-paginate
-
 disqus:
   - shortname: geveo-com-2
   
