@@ -1,14 +1,14 @@
 # Site settings
 title: Blogs | Life @ Geveo!!!   
 description: "Place to know the life at Geveo."
-url: "http://lahirukaushalya.github.io"
+url: "http://blog.geveo.com"
 author:
   name: "Geveo Australasia"
   email: "hello@geveo.com"
-  url: "http://lahirukaushalya.github.io"
+  url: "http://blog.geveo.com"
 
 # Build settings
-baseurl: /blog # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
@@ -26,7 +26,7 @@ defaults:
       layout: "post"
       
 #user names
-facebook_username:  lahirukaushalya.ananda
+facebook_username:  
 
 # Plugins
 gems:
