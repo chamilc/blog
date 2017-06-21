@@ -13,17 +13,7 @@ comments: true
 	
 </article>
 
-<a href="https://www.facebook.com/dialog/share
-    ?app_id=946372735391329&display=popup
-    &href={{ site.url }}{{ page.url }}
-    &redirect_uri={{ site.url }}{{ page.url }}">
-
-    <!-- use the facebook logo for the link --> 
-    <img 
-        alt="..." 
-        class="footer-icon" 
-        src="{{ site.baseurl }}/assets/img/social-icons/FB-f-Logo__blue_50.png">
-</a>
+<a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" rel="nofollow" target="_blank" title="Share on Facebook">Facebook</a>
 
 {% if page.comments != false and jekyll.environment == "production" %}
 
