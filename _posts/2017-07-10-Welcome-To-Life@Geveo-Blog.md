@@ -12,9 +12,9 @@ We want to make blogging one of our habits. Its not only a great way improve our
 
 Finally, as readers if you find any of our articles helpful or have any suggestion on it, please feel free to leave a comment!
 
-[[1]]   http://www.dummies.com/careers/find-a-job/personal-branding/ten-key-benefits-of-personal-branding/
-[[2]]  https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/
-[[3]] https://howtostartablogonline.net/why-blog/
+*[[1]]   http://www.dummies.com/careers/find-a-job/personal-branding/ten-key-benefits-of-personal-branding/
+*[[2]]  https://skillcrush.com/2015/02/20/10-ways-build-personal-brand/
+*[[3]] https://howtostartablogonline.net/why-blog/
 
 [//]: #comments 
    [Nilmani]:<https://www.linkedin.com/in/nilmanimenikge/>
@@ -26,6 +26,6 @@ Finally, as readers if you find any of our articles helpful or have any suggesti
 
    
    [img1]: /img/P1-img-1.jpg
-   [img2]: /img/P2-img-2.png
+   [img2]: /img/P1-img-2.png
 
    
