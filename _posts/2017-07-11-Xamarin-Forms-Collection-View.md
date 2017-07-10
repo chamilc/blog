@@ -167,9 +167,9 @@ You might have noticed, there are some dummy items added to the view model which
 
 Using listview this way is useful when we need to display items in rows and columns, but Layout<T> class more flexible than Listview, Layout class can be used to arrange the collections in any shape such as circle or in a curve etc...
 
-References:
-1.<https://developer.xamarin.com/guides/xamarin-forms/user-interface/layouts/custom>
-2.<https://developer.xamarin.com/guides/xamarin-forms/user-interface/listview/data-and-databinding/>
+References: <br/>
+1.<https://developer.xamarin.com/guides/xamarin-forms/user-interface/layouts/custom> <br/>
+2.<https://developer.xamarin.com/guides/xamarin-forms/user-interface/listview/data-and-databinding/><br/>
 3.<https://developer.xamarin.com/guides/xamarin-forms/application-fundamentals/templates/data-templates/selector/>
 
 
