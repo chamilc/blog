@@ -67,55 +67,55 @@ public class DocumentModuleViewModel: ViewModelBase
 Then in the view, define data templates for each orientation, in this case one for landscape and other one for portrait. In this example I have considered only tablets with general size. If we have to accommodate many different screen sizes, we might have to adjust the child view size or create different data template.
 
 ```xml
-<DataTemplate x:Key="DocViewTabLandscape">
-				<ViewCell>
-					<Grid Margin="4,10,4,10">
-						 <Grid.RowDefinitions>
-							<RowDefinition Height="*"></RowDefinition>
-						</Grid.RowDefinitions>
-						<Grid.ColumnDefinitions>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-						</Grid.ColumnDefinitions>
+	<DataTemplate x:Key="DocViewTabLandscape">
+		<ViewCell>
+			<Grid Margin="4,10,4,10">
+				 <Grid.RowDefinitions>
+					<RowDefinition Height="*"></RowDefinition>
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+				</Grid.ColumnDefinitions>
 
-						<Frame WidthRequest="60" HeightRequest="60" HasShadow="true" Grid.Row ="0" Grid.Column="0" IsVisible="{Binding DocumentViewRowCollection[0].IsNotDummy}">
-							<StackLayout>
-								<BoxView WidthRequest="36" HeightRequest="36" BackgroundColor="#00CCFF"></BoxView>
-								<Label Text= "{Binding DocumentViewRowCollection[0].Name}" Style="{x:StaticResource labelTest}"/>
-							</StackLayout>
-						</Frame>
-					--------------------------------
-					</Grid>
-				</ViewCell>
-			</DataTemplate>
+				<Frame WidthRequest="60" HeightRequest="60" HasShadow="true" Grid.Row ="0" Grid.Column="0" IsVisible="{Binding DocumentViewRowCollection[0].IsNotDummy}">
+					<StackLayout>
+						<BoxView WidthRequest="36" HeightRequest="36" BackgroundColor="#00CCFF"></BoxView>
+						<Label Text= "{Binding DocumentViewRowCollection[0].Name}" Style="{x:StaticResource labelTest}"/>
+					</StackLayout>
+				</Frame>
+			--------------------------------
+			</Grid>
+		</ViewCell>
+	</DataTemplate>
 ```
 
 ```xml
-<DataTemplate x:Key="DocViewTabPotrait">
-				<ViewCell>
-					<Grid Margin="4,10,4,10">
-						 <Grid.RowDefinitions>
-							<RowDefinition Height="*"></RowDefinition>
-						</Grid.RowDefinitions>
-						<Grid.ColumnDefinitions>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-							<ColumnDefinition Width="*"></ColumnDefinition>
-						</Grid.ColumnDefinitions>
+	<DataTemplate x:Key="DocViewTabPotrait">
+		<ViewCell>
+			<Grid Margin="4,10,4,10">
+				 <Grid.RowDefinitions>
+					<RowDefinition Height="*"></RowDefinition>
+				</Grid.RowDefinitions>
+				<Grid.ColumnDefinitions>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+					<ColumnDefinition Width="*"></ColumnDefinition>
+				</Grid.ColumnDefinitions>
 
-						<Frame WidthRequest="60" HeightRequest="60" HasShadow="true" Grid.Row ="0" Grid.Column="0" IsVisible="{Binding DocumentViewRowCollection[0].IsNotDummy}">
-							<StackLayout>
-								<BoxView WidthRequest="36" HeightRequest="36" BackgroundColor="#00CCFF"></BoxView>
-								<Label Text= "{Binding DocumentViewRowCollection[0].Name}" Style="{x:StaticResource labelTest}"/>
-							</StackLayout>
-						</Frame>
-					--------------------------------------
-					</Grid>
-				</ViewCell>
-			</DataTemplate>
+				<Frame WidthRequest="60" HeightRequest="60" HasShadow="true" Grid.Row ="0" Grid.Column="0" IsVisible="{Binding DocumentViewRowCollection[0].IsNotDummy}">
+					<StackLayout>
+						<BoxView WidthRequest="36" HeightRequest="36" BackgroundColor="#00CCFF"></BoxView>
+						<Label Text= "{Binding DocumentViewRowCollection[0].Name}" Style="{x:StaticResource labelTest}"/>
+					</StackLayout>
+				</Frame>
+			--------------------------------------
+			</Grid>
+		</ViewCell>
+	</DataTemplate>
 ```
 
 Once the data template are defined, let the listview to choose the template based on given condition, in this example device orientation. Selection of template is wired through a DataTemplateSelector provided by Xamarin Forms.
