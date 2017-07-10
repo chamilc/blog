@@ -1,5 +1,5 @@
 ---
-title: Xamarin Forms : Use ListView control to display items like a Collection View 
+title: Xamarin Forms, Use ListView control to display items like a Collection View
 ---
 By [Suthakaran] 
 
