@@ -34,6 +34,15 @@ html {
 	color: $text-color;
 }
 
+/*-Code -*/
+pre {
+    padding: 16px;
+    overflow: auto;
+    font-size: 12px;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px
+}
 
 /*- Link -*/
 a {
