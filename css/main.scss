@@ -4,3 +4,13 @@
 
 //Import
 @import "base", "mixin", "typography", "layout", "syntax.scss", "custom.scss";
+
+
+pre {
+    padding: 16px;
+    overflow: auto !important;
+    font-size: 12px !important;
+    line-height: 1.45;
+    background-color: #f6f8fa;
+    border-radius: 3px
+}
