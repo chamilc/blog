@@ -1,7 +1,8 @@
 ---
 title: Welcome to Geveo Blog
+author: Nilmani
+linkedin: https://www.linkedin.com/in/nilmanimenikge/
 ---
-By [Nilmani] 
 
 Welcome to Geveo blog. This is the place where we, the Geveo team will share our experiences with the hope that anyone whose going to read will gain a benefit out of it. Usually, a blog such as this one tend to be more technology focused given that we are a software company. Such blogs usually become a great tool for generating organic traffic to corporate websites. Which increases more inbound leads hence more business. In all honesty, we at Geveo wants the same. But where we are going to be different because we don’t want to make it 100% technical blog or a blog that delivers a pitch about our business, products or anything else.
 ![writing][img1] 
