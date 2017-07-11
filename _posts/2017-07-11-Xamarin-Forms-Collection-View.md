@@ -1,7 +1,8 @@
 ---
 title: Xamarin Forms, Use ListView control to display items like a Collection View
+author: Suthakaran
+linkedin: https://www.linkedin.com/in/suthakaransivabalan/
 ---
-By [Suthakaran] 
 
 Xamarin apps runs on variety of devices with different screen sizes and app UI should respond to different screen sizes as well as orientation changes. Very often we encounter with scenarios to display a collection of items in apps, for small devices it is ok to use typical Listview to render the collection where each row in the listview represent single item. But displaying single item in each row is not good idea when app runs on bigger devices such as tablets. It would be nice user experience if app display items like a matrix view (Rows and Columns). 
 
