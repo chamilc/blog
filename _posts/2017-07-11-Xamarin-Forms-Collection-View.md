@@ -23,7 +23,7 @@ In this example ,I created a document explorer kind of view using Xamarin Forms 
 First define the view model  based on Xamarin Forms recommended MVVM pattern. 
 View model directly represent the data to be displayed in the view, in this case each item will be displayed as square frame in rows and columns. Based on device orientation, number of items in each row will change. In order to support such behavior I have defined the view model. You can view the full source code [here].
 
-<code>
+```c#
 public class DocumentModuleViewModel: ViewModelBase
     {
         private ObservableCollection<DocumentViewRowViewModel> documentCollection;
@@ -62,7 +62,7 @@ public class DocumentModuleViewModel: ViewModelBase
 			}
         }
     }
-    </code>
+```
 
 Then in the view, define data templates for each orientation, in this case one for landscape and other one for portrait. In this example I have considered only tablets with general size. If we have to accommodate many different screen sizes, we might have to adjust the child view size or create different data template.
 
