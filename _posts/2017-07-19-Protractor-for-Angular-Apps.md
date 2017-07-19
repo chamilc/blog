@@ -130,7 +130,7 @@ it. This will allow the action to be performed only when the UI elements
 are loaded, therefore actions on Angular UI elements is more reliable in
 Protractor.
 
-1.  **Asynchronous scripting provides a synchronous control flow**
+2.  **Asynchronous scripting provides a synchronous control flow**
 
 Protractor methods are asynchronous and return promises. Let us look at
 an example to understand this.
