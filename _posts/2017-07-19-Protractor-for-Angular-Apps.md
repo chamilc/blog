@@ -37,11 +37,18 @@ some simple scenarios.
 
 1.  Download and install Node.js. Check the installed Node.js version by
     running node –version in command prompt.
+    <code>
+         node –version
+    </code>
 
 2.  Install JDK to run the standalone Selenium server. Check the
     installed java version by running java –version in command prompt.
+    <code>
+        java –version
+    </code>
 
-3.  Install Protractor by running npm install -g protractor
+3.  Install Protractor by running
+        <pre> npm install -g protractor </pre>
 
 4.  Start up a Selenium server instance. Check the installed Protractor
     version by running protractor --version
