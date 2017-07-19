@@ -79,7 +79,7 @@ some simple scenarios.
 
 1.  Set up a selenium server instance: Open up command prompt and run:
 
-    webdriver-manager start
+    <pre> webdriver-manager start </pre>
 
 2.  Run protractor: Open up command prompt and run protractor conf.js
 
