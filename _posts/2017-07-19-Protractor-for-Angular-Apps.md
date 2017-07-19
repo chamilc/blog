@@ -68,7 +68,7 @@ some simple scenarios.
 > Jasmine framework. ‘browser’ and ‘element’ are global variables in
 > Protractor.
 
-1.  Create Conf.js file.
+7.  Create Conf.js file.
 
 <img src="/img/Protractor4.png" width="329" height="93" />
 
@@ -77,11 +77,11 @@ some simple scenarios.
 > (Jasmine), name of the selenium server etc. The defaults are used for
 > other configurations. (E.g., default browser: Chrome)
 
-1.  Set up a selenium server instance: Open up command prompt and run:
+8.  Set up a selenium server instance: Open up command prompt and run:
 
     <pre> webdriver-manager start </pre>
 
-2.  Run protractor: Open up command prompt and run protractor conf.js
+9.  Run protractor: Open up command prompt and run protractor conf.js
 
 You will see a chrome browser window open up and navigate to the
 specified URL, then perform the login action. Once the assertion is
