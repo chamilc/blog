@@ -153,7 +153,7 @@ References: <br/>
 [http://](http://testautomation.applitools.com/)[testautomation.applitools.com](http://testautomation.applitools.com/)
 
 [https://](https://docs.angularjs.org/guide/e2e-testing)[docs.angularjs.org/guide/e2e-testing](https://docs.angularjs.org/guide/e2e-testing)
-
+ 
 [https://evanhahn.com/how-do-i-jasmine](https://evanhahn.com/how-do-i-jasmine/)[/](https://evanhahn.com/how-do-i-jasmine/)
 
 [https://](https://github.com/angular/protractor/blob/master/docs)[github.com/angular/protractor/blob/master/docs](https://github.com/angular/protractor/blob/master/docs)
