@@ -1,6 +1,6 @@
 ---
 title: Running Protractor tests on Visual Studio
-author: Menaka
+author: Menaka De Silva
 linkedin: https://lk.linkedin.com/in/menaka-de-silva-496b7618
 ---
 
