@@ -2,6 +2,7 @@
 title: Protractor for Angular Apps
 author: Menaka De Silva
 linkedin: https://lk.linkedin.com/in/menaka-de-silva-496b7618
+change: history
 ---
 
 **Background**
