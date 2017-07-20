@@ -23,13 +23,13 @@ framework written on C\# .NET.
 
 <img src="/img/ProtractorVS1.png" width="665" height="452" />
 
-<center>**Figure 1**</center>
+
 
 1.  You will see your installed Protractor version in packages.config.
 
 <img src="/img/ProtractorVS2.png" width="640" height="111" />
 
-<center>**Figure 2**</center>
+
 
 1.  Navigate to where you have initialized the WebDriver object. In our
     example project, WebDriver is initialized in the Global.cs class
@@ -37,7 +37,7 @@ framework written on C\# .NET.
 
 <img src="/img/ProtractorVS3.png" width="701" height="551" />
 
-<center>**Figure 3**</center>
+
 
 Notice how the Protractor namespace is used and an object of
 NgWebDriver(Protractor Driver) is created. In addition, there is an
