@@ -23,14 +23,17 @@ You can [install the entire suite of AzureRM cmdlets] by running Install-Module.
 
 #### Azure subscription login
 You should have administrator access for an Azure subscription in order to login to the Azure portal and manage resources. This is true for AzureRm cmdlets as well. There are cmdlets for initiating an Azure login session and selecting an Azure subscription. After you login and select a subscription, all subsequent operations you perform in the same powershell console will execute in that context.
-<pre>
+
+```
 \#Azure Login UI will be displayed after this
 Login-AzureRmAccount
 \# Print the list of Azure subscriptions for the logged in user
 Get-AzureRmSubscription
 \# Select a subscription by name
 Set-AzureRmContext –SubscriptionName “<subscription name>”
-</pre>
+
+```
+
 
 ### Building the project environment script
 By combining the aforementioned cmdlets, you can come up with a script for your project which takes care of provisioning all the required resources for one environment. You can run same script to create all the environment by following a simple parameterized naming convention.
