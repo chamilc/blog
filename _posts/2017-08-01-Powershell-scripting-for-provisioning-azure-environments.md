@@ -13,8 +13,8 @@ It would be highly error-prone to create and maintain all these resources with c
 
 ### AzureRM powershell cmdlets
 
-Microsoft provides a set of [powershell cmdlets] to interact with Azure Resource Manager. [Azure Resource Manager] is the service responsible for provisioning and managing resources in Azure data centers. The Azure Resource Manager powershell cmdlets have the indentifier <code>"\*-AzureRM\*" </code>.
-It should also be noted that there's a set of legacy cmdlets which begin with <code>"\*-Azure\*"</code>. These employ the use of Azure classic provisioning service which was named "Azure Service Manager". There are times you have to use these in places where Microsoft still haven't ported cmdlets to the new Resource Manager model.
+Microsoft provides a set of [powershell cmdlets] to interact with Azure Resource Manager. [Azure Resource Manager] is the service responsible for provisioning and managing resources in Azure data centers. The Azure Resource Manager powershell cmdlets have the indentifier <code>"*-AzureRM*" </code>.
+It should also be noted that there's a set of legacy cmdlets which begin with <code>"*-Azure*"</code>. These employ the use of Azure classic provisioning service which was named "Azure Service Manager". There are times you have to use these in places where Microsoft still haven't ported cmdlets to the new Resource Manager model.
 Tip: when you are googling for a cmdlet name which provides a specific functionality, use the "AzureRM" keyword as well (e.g. "azurerm cmdlet create sql database"). Otherwise you might get search results for the legacy cmdlets.
 You can [install the entire suite of AzureRM cmdlets] by running Install-Module. You should have these installed on the machine that you intend to run your provisioning script.
 <pre>
@@ -29,7 +29,7 @@ Login-AzureRmAccount
 \# Print the list of Azure subscriptions for the logged in user
 Get-AzureRmSubscription
 \# Select a subscription by name
-Set-AzureRmContext –SubscriptionName \“\<subscription name\>\”
+Set-AzureRmContext –SubscriptionName “<subscription name>”
 </pre>
 
 ### Building the project environment script
