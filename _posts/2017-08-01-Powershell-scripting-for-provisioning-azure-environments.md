@@ -29,7 +29,7 @@ Login-AzureRmAccount
 \# Print the list of Azure subscriptions for the logged in user
 Get-AzureRmSubscription
 \# Select a subscription by name
-Set-AzureRmContext –SubscriptionName “<subscription name>”
+Set-AzureRmContext –SubscriptionName \“\<subscription name\>\”
 </pre>
 
 ### Building the project environment script
