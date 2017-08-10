@@ -91,42 +91,15 @@ form the questionnaire.
 
 **Indicators**
 
-| Cohesiveness          | Communication                    | Motivation         | Leadership              |
-|-----------------------|----------------------------------|--------------------|-------------------------|
-| Goal achievement      
-                        
- Participation          
-                        
- Conflicts resolution   
-                        
- Shared accountability  | Understand customer requirements 
-                                                           
-                         Identifying team impediments      
-                                                           
-                         Enhance Working conditions        
-                                                           
-                         Understanding team roles          | Achievement        
-                                                                                
-                                                            Recognition         
-                                                                                
-                                                            Work Type           
-                                                                                
-                                                            Responsibility      
-                                                                                
-                                                            Working conditions  | Team leadership         
-                                                                                                          
-                                                                                 Organization leadership  
-                                                                                                          
-                                                                                 Member leadership        
-                                                                                                          
-                                                                                 Perception               
-                                                                                                          
-                                                                                 Organization commitment  
-                                                                                                          
-                                                                                 Team commitment          
-                                                                                                          
-                                                                                 Quality Management       |
-
+| Cohesiveness          | Communication                    | Motivation         | Leadership                   |
+|-----------------------|----------------------------------|--------------------|------------------------------|
+| Goal achievement      | Understand customer requirements | Achievement        | Team leadership              |
+| Participation         | Identifying team impediments     | Recognition        | Organization leadership      |
+| Conflicts resolution  | Enhance Working conditions       | Work Type          | Member leadership Perception |
+|Shared accountability  | Understanding team roles         | Responsibility     | Organization commitment      |
+|                       |                                  | Working conditions | Team commitment              |
+|                       |                                  |                    | Quality Management           |
+                               
 Collected data was analyzed and interpreted using a combination of few
 statistical indicators as shown below.
 
