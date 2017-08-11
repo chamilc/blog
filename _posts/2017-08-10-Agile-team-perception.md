@@ -99,7 +99,7 @@ form the questionnaire.
 |Shared accountability  | Understanding team roles         | Responsibility     | Organization commitment      |
 |                       |                                  | Working conditions | Team commitment              |
 |                       |                                  |                    | Quality Management           |
-[/_sass/tableborder.scss]{:.mbtablestyle}
+
                                
 Collected data was analyzed and interpreted using a combination of few
 statistical indicators as shown below.
