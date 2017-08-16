@@ -1,5 +1,5 @@
 ---
-title: Agile team perception on the impact of People factors affecting agile team Productivity: A Case study of Geveo
+title: Team perception on the impact of People factors affecting agile team Productivity
 author: Asanka Indrajith
 linkedin: https://lk.linkedin.com/in/asanka-indrajith-9510a025
 ---
