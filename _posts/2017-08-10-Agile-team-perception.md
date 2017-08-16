@@ -89,14 +89,14 @@ form the questionnaire.
 
 **Indicators**
 
-| Cohesiveness          | Communication                    | Motivation         | Leadership                   |
-|-----------------------|----------------------------------|--------------------|------------------------------|
-| Goal achievement      | Understand customer requirements | Achievement        | Team leadership              |
-| Participation         | Identifying team impediments     | Recognition        | Organization leadership      |
-| Conflicts resolution  | Enhance Working conditions       | Work Type          | Member leadership Perception |
-|Shared accountability  | Understanding team roles         | Responsibility     | Organization commitment      |
-|                       |                                  | Working conditions | Team commitment              |
-|                       |                                  |                    | Quality Management           |
+| Cohesiveness            | Communication                      | Motivation           | Leadership                     |
+|:-----------------------:|:----------------------------------:|:--------------------:|:------------------------------:|
+| Goal achievement        | Understand customer requirements   | Achievement          | Team leadership                |
+| Participation           | Identifying team impediments       | Recognition          | Organization leadership        |
+| Conflicts resolution    | Enhance Working conditions         | Work Type            | Member leadership Perception   |
+|Shared accountability    | Understanding team roles           | Responsibility       | Organization commitment        |
+|                         |                                    | Working conditions   | Team commitment                |
+|                         |                                    |                      | Quality Management             |
 
                                
 Collected data was analyzed and interpreted using a combination of few
@@ -104,12 +104,12 @@ statistical indicators as shown below.
 
 **Results**
 
-| Model         | Karl Pearson correlation coefficient (P) | Coefficient of determination (R<sup>2</sup>) | Significance |
-|---------------|------------------------------------------|----------------------------------------------|--------------|
-| Cohesiveness  | .403                                     | .162                                         | 98.9%        |
-| Communication | .441                                     | .194                                         | 99.5%        |
-| Motivation    | .380                                     | .144                                         | 98.3%        |
-| Leadership    | .233                                     | .054                                         | 84%          |
+| Model           | Karl Pearson correlation coefficient (P)   | Coefficient of determination (R<sup>2</sup>)   | Significance   |
+|:---------------:|:------------------------------------------:|:----------------------------------------------:|:--------------:|
+| Cohesiveness    | .403                                       | .162                                           | 98.9%          |
+| Communication   | .441                                       | .194                                           | 99.5%          |
+| Motivation      | .380                                       | .144                                           | 98.3%          |
+| Leadership      | .233                                       | .054                                           | 84%            |
 
 **Conclusions**
 
