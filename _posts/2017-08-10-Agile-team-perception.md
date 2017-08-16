@@ -89,14 +89,7 @@ form the questionnaire.
 
 **Indicators**
 
-| Cohesiveness            | Communication                      | Motivation           | Leadership                     |
-|:-----------------------:|:----------------------------------:|:--------------------:|:------------------------------:|
-| Goal achievement        | Understand customer requirements   | Achievement          | Team leadership                |
-| Participation           | Identifying team impediments       | Recognition          | Organization leadership        |
-| Conflicts resolution    | Enhance Working conditions         | Work Type            | Member leadership Perception   |
-|Shared accountability    | Understanding team roles           | Responsibility       | Organization commitment        |
-|                         |                                    | Working conditions   | Team commitment                |
-|                         |                                    |                      | Quality Management             |
+<img src="/img/agileteam1.png" width="559" height="212" />
 
                                
 Collected data was analyzed and interpreted using a combination of few
