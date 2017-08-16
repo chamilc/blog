@@ -89,7 +89,7 @@ form the questionnaire.
 
 **Indicators**
 
-<img src="/img/agileteam1.png" width="559" height="212" />
+<img src="/img/agileteam1.PNG" />
 
                                
 Collected data was analyzed and interpreted using a combination of few
