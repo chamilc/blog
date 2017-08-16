@@ -7,6 +7,7 @@ linkedin: https://lk.linkedin.com/in/asanka-indrajith-9510a025
 **Agile team perception on the impact of People factors affecting agile
 team Productivity: A Case study of Geveo**
 
+
 Organization performance is a key factor which determines the success or
 the failure of a company. For a software company, their success depends
 on the success or the failure of software they develop. Successful
