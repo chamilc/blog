@@ -97,12 +97,7 @@ statistical indicators as shown below.
 
 **Results**
 
-| Model           | Karl Pearson correlation coefficient (P)   | Coefficient of determination (R<sup>2</sup>)   | Significance   |
-|:---------------:|:------------------------------------------:|:----------------------------------------------:|:--------------:|
-| Cohesiveness    | .403                                       | .162                                           | 98.9%          |
-| Communication   | .441                                       | .194                                           | 99.5%          |
-| Motivation      | .380                                       | .144                                           | 98.3%          |
-| Leadership      | .233                                       | .054                                           | 84%            |
+<img src="/img/agileteam2.PNG" />
 
 **Conclusions**
 
