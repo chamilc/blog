@@ -1,12 +1,10 @@
 ---
-title: Agile team perception on the impact of People factors affecting agile
-team Productivity: A Case study of Geveo
-author: Asanka
+title: Agile team perception on the impact of People factors affecting agile team Productivity: A Case study of Geveo
+author: Asanka Indrajith
 linkedin: https://lk.linkedin.com/in/asanka-indrajith-9510a025
 ---
 
-Agile team perception on the impact of People factors affecting agile
-team Productivity: A Case study of Geveo
+Agile team perception on the impact of People factors affecting agile team Productivity: A Case study of Geveo
 
 Organization performance is a key factor which determines the success or
 the failure of a company. For a software company, their success depends
@@ -54,7 +52,7 @@ discipline. Therefore it is important to asses and understands what
 personal skills and people factors affects team productivity in an agile
 environment.
 
-People factors
+**People factors**
 
 Software is developed by people for people. People are at the core of
 development of software; communicating, making decisions, designing,
@@ -74,7 +72,7 @@ and tools. Agile requires more involvement of members and more
 interaction within team. Therefore productivity of an agile team will
 depends more on the members of the team.
 
-Study
+**Study**
 
 Therefore it is important to identify the people factors which affect
 productivity in any organizations. Prioritizing and using these factors
@@ -113,7 +111,7 @@ statistical indicators as shown below.
 | Motivation    | .380                                     | .144                                         | 98.3%        |
 | Leadership    | .233                                     | .054                                         | 84%          |
 
-Conclusions
+**Conclusions**
 
 All four considered people factors have shown positive relationship with
 agile team productivity. Therefore Geveo staff think all four factors
@@ -128,7 +126,7 @@ relationship is also not significant. Therefore according to Geveo staff
 Communication, Cohesiveness and Motivation have a greater impact on
 agile team productivity rather than Leadership.
 
-Reference
+**Reference**
 
 \[1\] Chagas, A., Santos, M., Santana, C. and Vasconcelos, A., 2015. The
 impact of human factors on agile projects. In Agile Conference (AGILE),
@@ -147,4 +145,3 @@ pp.602-628.
 José, M., e Silva, C. & de Lemos-Meira, S.R., A Review of Productivity
 Factors and Strategies on Software Development. Management, 46, p.12.
 
-.
