@@ -115,7 +115,7 @@ relationship is also not significant. Therefore according to Geveo staff
 Communication, Cohesiveness and Motivation have a greater impact on
 agile team productivity rather than Leadership.
 
-[**Click here to download the questionnaire**](https://github.com/GeveoAu/blog/blob/gh-pages/img/agileteam.docx)
+[**Click here to download the questionnaire**](/img/agileteam.docx)
 
 **Reference**
 
