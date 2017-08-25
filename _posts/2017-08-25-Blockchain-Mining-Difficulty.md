@@ -20,7 +20,7 @@ Blockchain
 
 A “*blockchain*” is a public database of transactions shared in a
 peer-to-peer network between participating nodes secured by
-cryptographic means. A transaction in the blockchain is permanently
+cryptography. A transaction in the blockchain is permanently
 time-stamped and is immutable. The blockchain consists of “blocks” of
 data, with each block containing validated transactions with a reference to
 the previous block. This creates a chain of blocks, thus the name
