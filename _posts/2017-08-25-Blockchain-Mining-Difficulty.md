@@ -129,7 +129,6 @@ calculation: **Bits** and **Difficulty**
 Source:
 [blockchain.info](https://blockchain.info/block/000000000000000001624282e608f5430d338c74996dffe155d5ab423c04fd53)
 
-### 
 
 The Bits
 --------
