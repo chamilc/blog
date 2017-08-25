@@ -209,7 +209,7 @@ the hash target, its value changes every 2016 blocks.
 The difficulty increases exponentially. Today, your typical
 general-purpose computer would take *thousands of years* to mine a new
 block on its own. The combined mining power of the Bitcoin supercomputer
-can dothis in 10 minutes.
+can do this in 10 minutes.
 
 References
 ----------
