@@ -178,7 +178,7 @@ Adjusting the Hash Target
 As mentioned before, the hash target is adjusted every 2016 blocks so
 that the time to generate blocks remain at an average of 10 minutes.
 
-![](/img/hethu6.png)
+![](/img/hethu9.png)
 
 If it has taken less than 10 minutes average time to generate the last
 2016 blocks, the formula will yield a smaller hash target, which is
@@ -193,7 +193,7 @@ mining a block compared to mining the very first block. The difficulty
 is a ratio between the block \#0 (genesis block) hash target and the
 current hash target:
 
-![](/img/hethu7.png)
+![](/img/hethu10.png)
 
 The genesis block Bits were hardcoded to 486604799 (0x 1D 00 FF FF).
 This results in a hash target of 8 zeros followed by **FF FF** followed
