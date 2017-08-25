@@ -1,5 +1,8 @@
-**Blockchain Mining Difficulty**
-================================
+---
+title: Blockchain Mining Difficulty
+author: Hethu Nanayakkara
+linkedin: https://lk.linkedin.com/in/hethu
+---
 
 The crypto-currency Bitcoin recorded an [all-time
 high](https://www.cnbc.com/2017/08/14/bitcoin-price-record-high-strong-japanese-demand-safe-haven-bid.html)
