@@ -206,6 +206,9 @@ the hash target, its value changes every 2016 blocks.
 
 ![](/img/hethu8.png)
 
+Source:
+[blockchain.info](https://blockchain.info/charts/difficulty?timespan=all)
+
 The difficulty increases exponentially. Today, your typical
 general-purpose computer would take *thousands of years* to mine a new
 block on its own. The combined mining power of the Bitcoin supercomputer
