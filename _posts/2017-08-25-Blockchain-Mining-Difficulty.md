@@ -124,7 +124,7 @@ giving the block number. For example, if we look at a recent Block
 \#456789, we will see two important values related to the difficulty
 calculation: **Bits** and **Difficulty**
 
-![](/img/hethu1.png)
+<img src="./img/hethu1.png" width="473" height="516" />
 
 Source:
 [blockchain.info](https://blockchain.info/block/000000000000000001624282e608f5430d338c74996dffe155d5ab423c04fd53)
@@ -139,8 +139,7 @@ target*”. Bits is a four-byte value. The first byte indicates the number
 of bytes (length) of the hash target while the following three bytes
 indicate the most significant bytes.
 
-|     |     |     |     |
-|-----|-----|-----|-----|
+![](/img/hethu2.png)
 
 In our Block \#456789 example;
 
@@ -151,16 +150,14 @@ the hash target: 18 (hex) =&gt; 24 (decimal). Which means the hash
 target is 24 bytes in length, with the most significant bytes specified
 in the subsequent three bytes.
 
-| 18  | 02  | 62  | DF  |
-|-----|-----|-----|-----|
+![](/img/hethu3.png)
 
 Hash Target
 -----------
 
 When the three significant bytes are written as a 24-byte value:
 
-| 02  | 62  | DF  | 00  | 00  | 00  |     |     | …   |     |     | 00  | 00  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+![](/img/hethu4.png)
 
 Hash target: 02 62 DF 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
 00 00 00 00
@@ -171,8 +168,7 @@ this hash target.
 SHA-256 hashes have 64 hex digits. When the hash target is represented
 as a full 32-byte value (64 hex digits):
 
-| 00  | 00  | 00  | 00  | 00  | 00  | 00  | 00  | 02  | 62  | DF  | 00  | 00  | 00  |     |     | …   |     |     | 00  | 00  |
-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
+![](/img/hethu5.png)
 
 Visually for simplicity, this can thought of as miners trying to find
 block-hashes containing 17 or more leading zeros.
@@ -183,7 +179,7 @@ Adjusting the Hash Target
 As mentioned before, the hash target is adjusted every 2016 blocks so
 that the time to generate blocks remain at an average of 10 minutes.
 
-\[\text{Hash\ Target}_{\text{new}} = \text{Hash\ Target}_{\text{curren}t}\  \times \ \frac{{\text{Avergage\ time\ }\text{taken\ to\ }generate\ last\ 2016\ blocks}_{(mins)}}{10_{(mins)}}\]
+![](/img/hethu6.png)
 
 If it has taken less than 10 minutes average time to generate the last
 2016 blocks, the formula will yield a smaller hash target, which is
@@ -198,7 +194,7 @@ mining a block compared to mining the very first block. The difficulty
 is a ratio between the block \#0 (genesis block) hash target and the
 current hash target:
 
-\[Difficulty = \frac{\text{Hash\ Target}_{\left( \text{genisis\ block} \right)}}{\text{Hash\ Target}_{\left( \text{current\ block} \right)}}\]
+![](/img/hethu7.png)
 
 The genesis block Bits were hardcoded to 486604799 (0x 1D 00 FF FF).
 This results in a hash target of 8 zeros followed by **FF FF** followed
@@ -209,7 +205,7 @@ larger.
 The difficulty of the block \#0 was 1. Since the Difficulty depends on
 the hash target, its value changes every 2016 blocks.
 
-<img src="./media/image2.png" width="623" height="337" />
+![](/img/hethu8.png)
 
 The difficulty increases exponentially. Today, your typical
 general-purpose computer would take *thousands of years* to mine a new
