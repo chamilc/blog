@@ -124,7 +124,7 @@ giving the block number. For example, if we look at a recent Block
 \#456789, we will see two important values related to the difficulty
 calculation: **Bits** and **Difficulty**
 
-<img src="./media/image1.png" width="473" height="516" />
+![](/img/hethu1.png)
 
 Source:
 [blockchain.info](https://blockchain.info/block/000000000000000001624282e608f5430d338c74996dffe155d5ab423c04fd53)
