@@ -6,9 +6,9 @@ linkedin: https://lk.linkedin.com/in/hethu
 
 The crypto-currency Bitcoin recorded an [all-time
 high](https://www.cnbc.com/2017/08/14/bitcoin-price-record-high-strong-japanese-demand-safe-haven-bid.html)
-at USD 4,300 in Mid-August 2017. The popularity and adaptation of
-crypto-currencies like Bitcoin and Ether (Etherium) have increased over
-the years tremendously. Blockchain is the underlying technology that
+at USD 4,300 in Mid-August 2017. The popularity of crypto-currencies like
+Bitcoin and Ether (Etherium) have tremendously increased adaptation over
+the years. Blockchain is the underlying technology that
 powers these digital crypto-currencies.
 
 This post is to explain some technical concepts behind blockchain and
@@ -209,7 +209,7 @@ the hash target, its value changes every 2016 blocks.
 The difficulty increases exponentially. Today, your typical
 general-purpose computer would take *thousands of years* to mine a new
 block on its own. The combined mining power of the Bitcoin supercomputer
-does this in 10 minutes.
+can dothis in 10 minutes.
 
 References
 ----------
