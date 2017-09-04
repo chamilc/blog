@@ -1,5 +1,5 @@
 ---
-title: Xamarin Profiler: Profiling mobile apps with Xamarin
+title: Profiling mobile apps with Xamarin Profiler
 author: Priyadharsun
 linkedin: https://lk.linkedin.com/in/priyadharsun-sivadasan-a1676247
 ---
