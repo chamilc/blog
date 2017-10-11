@@ -10,7 +10,7 @@ A trip to Jaffna was always on the cards since Suthakaran, a *Geveo* member whos
 
 After a long but entertaining train ride overnight, we got down at the Jaffna railway station early in the morning next day. Jaffna is a bit of a different city from the ones in the South. You can see cows walking by, literary in any street. Bicycle seemed to be a very close friend of the people that it’s a common sight to see even females of all ages using bicycle as their first-choice travelling partner. The city has its nerve-center spots in close proximity with each other. Just as you get out of the Jaffna railway, the hospital can be seen. And a few hundred meters ahead, the island–renown Jaffna library resides, gorgeous in its front view. By the sea was the Jaffna Fort, and right beside it was the Duraiappa stadium which has been named after the assassinated mayor *Alfred Duraiappa* in 1975. A short walk around gets you to Jaffna central bus station, the Hindu College, Nallur kovil and how can you forget Rio, the ice cream shop!
 
-<img src="./media/chamil001.png"/>
+<img src="/img/chamil001.png"/>
 
 Despites being bordered to the Indian Ocean from the South, Jaffna city is a hub connecting several key towns of the peninsula. The roads to Point Pedro, Kankesanturai, Karainagar, Nainativ and the A9 – the gate to the South all meet each other at Jaffna. The first destination of ours being the Nagadeepa, we needed to travel through the road towards Nainativ. But first things first. Everyone’s first requirement was a delicious plate of Jaffna food for the breakfast!
 
@@ -20,11 +20,11 @@ After the breakfast, it was time to visit our first destination, the Nagadeepa. 
 
 After waiting for few minutes, the ferry arrived, and about 60 people were ‘packed’ into it. With old and torn life jackets given to us and the cracked wooden deck, it would have required a Chathura Senaratne to save us in an emergency situation. The noisy motor started in a minute, and there we were, swinging in a ferry, sailing to Nagadeepa. 
 
-<img src="./media/chamil002.png"/>
+<img src="/img/chamil002.png"/>
 
-<img src="./media/chamil003.png"/>
+<img src="/img/chamil003.png"/>
 
-<img src="./media/chamil004.png"/>
+<img src="/img/chamil004.png"/>
 
 In 20-30 minutes, we arrived in the Nainativ Island, and the Nagadeepa Viharaya was right in front of us. Though I have learnt in the primary that the Lord Buddha has visited there, I hadn’t been there until that moment. It was a calm place, and we laid on the outside floor for about 20 minutes after the religious activities. And then we started to walk towards the Hindu kovil towards the north of Nagadeepa. On the way, there were plenty of sellers trying to sell us various things and some of their marketing strategies were in another level as one guy called Thilanka’s husband, ‘*ayya buy these hakuru and make a wish that you get the same wife in your next life as well; it will come true*’. 
 
@@ -34,13 +34,13 @@ Back in the mainland, up next was to visit Suthakaran’s place and have lunch. 
 
 Suthakaran’s place was in Nelliadi, a town located in the northeast part of the peninsula. The route was through the Jaffna city again, so we decided to visit the historic Jaffna Fort which was on the way. Built buy the Dutch and bordered to the sea from one side, Jaffna fort reminded me of the Galle fort, but the interior was empty compared to the latter. Sings of the war were very much visible with broken walls and rubble everywhere. The setting took me back to the story of ‘Operation – Jaffna Fort’ that I read in a book 2 weeks ago. The book described how fierce the Jaffna fort was, occupied by the army and totally surrounded by the LTTE, with gunfire, mortars and land mines tallying deaths for both sides. 17 Years later, there we were, standing in the middle of the Jaffna Fort, taking photographs of each other and chilling. Tables have turned!
 
-<img src="./media/chamil005.png"/>
+<img src="/img/chamil011.png"/>
 
-<img src="./media/chamil006.png"/>
+<img src="/img/chamil012.png"/>
 
-<img src="./media/chamil007.png"/>
+<img src="/img/chamil007.png"/>
 
-<img src="./media/chamil008.png"/>
+<img src="/img/chamil008.png"/>
 
 There was only one thing in all of our minds after leaving the fort- "lunch". We were fried by the sun and nobody bothered to talk for the next 40 minutes in which we arrived in Sutha’s place. It was quite a calm and quiet place, except for a sudden scream of a goat or a hen. The garden had a lot of space and was shared by two dogs and some hen. Several trees stood tall above the garden giving the much-needed shelter. And against one, laid a Lumala bicycle. The house had a bit of a Hindu architectural touch as I felt, and in the walls of the verandah hung the success story of the family members framed in photos.
 
@@ -58,9 +58,9 @@ Day two was to be started at 5.30 in the morning, as the plan was to see the sun
 
 We didn’t spend much time there as we had to go back, have breakfast and visit many other places. At about 8.30 am, we left for Casuarina beach, which was in Karaitiv. It was more than 40km away from Nelliadi and we visited some other places on the way too. One such place was the bottomless well at Nilavarai. We quickly had a glance at the dark blue watered well and continued the journey. It was abouy 10.30 am when we reached the Casuarina beach, and it looked gorgeous. One noticeable thing was the color of the sand of the beach, which was darker and less yellowish compared to the other beaches. However, what mattered for us was that the place was superb for a bath!
 
-<img src="./media/chamil009.png"/>
+<img src="/img/chamil009.png"/>
 
-<img src="./media/chamil010.png"/>
+<img src="/img/chamil010.png"/>
 
 After having a bath there for nearly 2 hours, we were travelling back to Jaffna. On the way back, we visited the *Sri Sangamitta Viharaya* at *Dambakolapatuna*, which was probably being maintained by the navy. Few miles away from this place was a well of hot water springs but at first glance, it looked like a bit polluted to get into. The road we came in was parallel to the sea and I felt like this part of Jaffna had the toughest conditions to live. There were many abandoned buildings among vast palm fields. As Chinthaka said, the road ends at the Army Camp of Palali and the road looks like this till the end. Without travelling that far, we took a short- cut which met the Jaffna KKS road at *Maviddapuram* and within half an hour we were back in Jaffna. 
 
