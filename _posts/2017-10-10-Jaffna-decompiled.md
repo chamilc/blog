@@ -4,6 +4,7 @@ author: Chamil Chandrathilake
 linkedin: https://lk.linkedin.com/in/chamil800
 ---
 
+
 Appetite for travel can be triggered by many catalysts. For some it’s the zest to explore the world. Some others find it interesting to experience different cultures. And for some, it can even be food! Living with software all the time, a bunch of buddies from ‘*Geveo Australasia’* got together to do some travelling, triggered by different catalysts. And *Jaffna* was the destination. There were 11 of us gathered together, all excited in their own way. Having chosen the hill country for hiking and trekking for the last few years, this was a going to be a different taste for me personally as well.
 
 A trip to Jaffna was always on the cards since Suthakaran, a *Geveo* member whose hometown is in up north, always had his place open for anybody who’d visit Jaffna. So, the 11 of us, including me, Aruna, Chamika, Thilanka and her husband, Chinthaka, Sandun, Chandula, Asanka, Tharindu and Ishan had little trouble choosing where to go. The arrangements were done quickly, and on a gloomy Friday evening of late May, the gang set out from the office to the Colombo Fort railway station as tickets were booked for the Jaffna bound night-mail, scheduled to leave at 8.30 pm. News of the devastating flood in down south has stirred our excitement somewhat, but since everything was planned and booked, any change of plans would have been costly. The train arrived in time to the station and within few minutes, we were travelling to Jaffna, and the much-awaited trip-to-Jaffna officially started!
@@ -38,11 +39,9 @@ Suthakaran’s place was in Nelliadi, a town located in the northeast part of th
 
 <img src="/img/chamil012.png"/>
 
-<img src="/img/chamil007.png"/>
-
 <img src="/img/chamil006.png"/>
 
-
+<img src="/img/chamil007.png"/>
 
 There was only one thing in all of our minds after leaving the fort- "lunch". We were fried by the sun and nobody bothered to talk for the next 40 minutes in which we arrived in Sutha’s place. It was quite a calm and quiet place, except for a sudden scream of a goat or a hen. The garden had a lot of space and was shared by two dogs and some hen. Several trees stood tall above the garden giving the much-needed shelter. And against one, laid a Lumala bicycle. The house had a bit of a Hindu architectural touch as I felt, and in the walls of the verandah hung the success story of the family members framed in photos.
 
