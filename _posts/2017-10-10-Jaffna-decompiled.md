@@ -40,7 +40,9 @@ Suthakaran’s place was in Nelliadi, a town located in the northeast part of th
 
 <img src="/img/chamil007.png"/>
 
-<img src="/img/chamil008.png"/>
+<img src="/img/chamil006.png"/>
+
+
 
 There was only one thing in all of our minds after leaving the fort- "lunch". We were fried by the sun and nobody bothered to talk for the next 40 minutes in which we arrived in Sutha’s place. It was quite a calm and quiet place, except for a sudden scream of a goat or a hen. The garden had a lot of space and was shared by two dogs and some hen. Several trees stood tall above the garden giving the much-needed shelter. And against one, laid a Lumala bicycle. The house had a bit of a Hindu architectural touch as I felt, and in the walls of the verandah hung the success story of the family members framed in photos.
 
@@ -58,13 +60,15 @@ Day two was to be started at 5.30 in the morning, as the plan was to see the sun
 
 We didn’t spend much time there as we had to go back, have breakfast and visit many other places. At about 8.30 am, we left for Casuarina beach, which was in Karaitiv. It was more than 40km away from Nelliadi and we visited some other places on the way too. One such place was the bottomless well at Nilavarai. We quickly had a glance at the dark blue watered well and continued the journey. It was abouy 10.30 am when we reached the Casuarina beach, and it looked gorgeous. One noticeable thing was the color of the sand of the beach, which was darker and less yellowish compared to the other beaches. However, what mattered for us was that the place was superb for a bath!
 
-<img src="/img/chamil009.png"/>
+<img src="/img/chamil008.png"/>
 
-<img src="/img/chamil010.png"/>
+<img src="/img/chamil009.png"/>
 
 After having a bath there for nearly 2 hours, we were travelling back to Jaffna. On the way back, we visited the *Sri Sangamitta Viharaya* at *Dambakolapatuna*, which was probably being maintained by the navy. Few miles away from this place was a well of hot water springs but at first glance, it looked like a bit polluted to get into. The road we came in was parallel to the sea and I felt like this part of Jaffna had the toughest conditions to live. There were many abandoned buildings among vast palm fields. As Chinthaka said, the road ends at the Army Camp of Palali and the road looks like this till the end. Without travelling that far, we took a short- cut which met the Jaffna KKS road at *Maviddapuram* and within half an hour we were back in Jaffna. 
 
 As time has passed quickly, we dropped our plan to visit Elphant-pass in the evening and decided to roam around Jaffna city instead. After a good lunch, we went to ‘Rio ice cream’ – a must if you visit Jaffna. We then visited the Nallur kovil which was nearby, the Jaffna library next, and then came back to Sutha’s place quickly to say good bye to his family, and the only place we stopped at was a wade cart since Chandula has promised to buy all sorts of wade for all of us. We packed our stuff quickly while a quick debate arose between Aruna and Thilanka on how to say ‘thank you, we’ll come again’ in Tamil. Asanka the siri ayya who speaks a bit of Tamil overheard the debate and gave the victory to Thilanka. 
+
+<img src="/img/chamil010.png"/>
 
 It was time to leave. We thanked Sutha and his family for providing great accommodation and taking us around Jaffna. Ending two great days of stay, we left his place as the night mail from KKS to Colombo was scheduled to leave Jaffna at 7pm. The train arrived on time, and we got in. The loud horn of the Colombo bound night mail marked the end of a memorable, fascinating journey. "*Poitru Vanga, Jaffna*"!
 
