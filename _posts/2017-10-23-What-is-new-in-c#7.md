@@ -2,6 +2,7 @@
 title: What is new in C# 7.0!
 author: Aruna Nishantha 
 linkedin: https://lk.linkedin.com/in/anishantha87
+description : C# 7.0, new feature, tuples, pattern matching, local function
 ---
 
 C# 7.0 has been announced with tremendous changes to development environment with code simplification, data consumption and performance improvements. Unlike in older releases, with the latest features of C# 7.0 making your code clean, efficient and improves the productivity as well. In the following, I have elaborated the usage of new features.

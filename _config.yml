@@ -1,6 +1,7 @@
 # Site settings
 title: Blogs | Life @ Geveo!!!   
 description: "Place to know the life at Geveo."
+company_url: "http//geveo.com"
 url: "http://blog.geveo.com"
 author:
   name: "Geveo Australasia"
@@ -30,8 +31,12 @@ defaults:
 facebook_username:  
 
 # Plugins
+plugins:
+  - jekyll-seo-tag
+
 gems:
   - jekyll-paginate
+
 disqus:
   - shortname: geveo-com-2
   

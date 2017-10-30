@@ -5,7 +5,7 @@ comments: true
 <article id="post-page">
 	<h2>{{ page.title }}</h2>		
 	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-	<span> By <strong> <a href="{{page.linkedin}}"> {{ page.author}} </a></strong> </span>
+	<span> By <strong> <a href="{{page.linkedin}}"> {{ page.author}} </a></strong> </span></br>
 	<div class="content">
 
 		{{ content }}
