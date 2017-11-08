@@ -53,7 +53,7 @@ pages, etc.
 The below diagram illustrates the route of the eye’s focus when scanning
 through a page following the Z-pattern:
 
-<img src="./img/Eashan1.jpg" width="600" height="412" />
+<img src="/img/Eashan1.jpg" width="600" height="412" />
 
 Source: Tutplus;
 <https://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28>
@@ -67,7 +67,7 @@ shape like the letter Z.
 
 Consider the following sample webpage:
 
-<img src="./img/Eashan2.jpg" width="600" height="412" />
+<img src="/img/Eashan2.jpg" width="600" height="412" />
 
 Source: Tutplus;
 <https://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28>
@@ -78,7 +78,7 @@ it. Such a page is ideal for demonstrating how the Z-pattern works.
 
 Next, let us look at how the page is read according to the Z-pattern:
 
-<img src="./img/Eashan3.jpg" width="600" height="412" />
+<img src="/img/Eashan3.jpg" width="600" height="412" />
 
 Source: Tutplus;
 <https://webdesign.tutsplus.com/articles/understanding-the-z-layout-in-web-design--webdesign-28>
@@ -89,7 +89,7 @@ along the page, as well as being points of interest in the overall page.
 A good example of the Z-pattern in action is the Facebook landing page,
 which is shown below.
 
-<img src="./img/Eashan4.jpg" width="624" height="309" />
+<img src="/img/Eashan4.jpg" width="624" height="309" />
 
 **The F-pattern**
 
@@ -99,7 +99,7 @@ suitable to consider in a page that is heavy in text and content.
 Consider the diagram below, which shows the heat-maps from user
 eye-tracking studies of three websites:
 
-<img src="./img/Eashan5.jpg" width="624" height="289" />
+<img src="/img/Eashan5.jpg" width="624" height="289" />
 
 Source: Nielson Norman Group;
 [www.nngroup.com/articles/f-shaped-pattern-reading-web-content/](http://www.nngroup.com/articles/f-shaped-pattern-reading-web-content/)
@@ -120,7 +120,7 @@ the description of this design layout pattern.
 The basic characteristics and flows of the F-pattern are shown in the
 following diagram:
 
-<img src="./img/Eashan6.jpg" width="600" height="400" />
+<img src="/img/Eashan6.jpg" width="600" height="400" />
 
 Source: Tutplus;
 <https://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687>
@@ -135,7 +135,7 @@ continuously so that the path resembles either a letter F or E.
 Now, as we did before with the Z-pattern, let us consider a generic web
 page to best demonstrate this pattern:
 
-<img src="./img/Eashan7.jpg" width="600" height="398" />
+<img src="/img/Eashan7.jpg" width="600" height="398" />
 
 Source: Tutplus;
 <https://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687>
@@ -150,7 +150,7 @@ rows is very obvious and easy to distinguish.
 Due to this layout, it is a good example of following the F-pattern,
 which is shown below:
 
-<img src="./img/Eashan8.jpg" width="600" height="398" />
+<img src="/img/Eashan8.jpg" width="600" height="398" />
 
 Source: Tutplus;
 <https://webdesign.tutsplus.com/articles/understanding-the-f-layout-in-web-design--webdesign-687>
@@ -162,9 +162,9 @@ A popular example of the F-pattern in action would be a Google search
 result, or even the Facebook newsfeed, which are 2 of the most visited
 pages in any internet user’s day to day life.
 
-<img src="./img/Eashan9.jpg" width="624" height="551" />
+<img src="/img/Eashan9.jpg" width="624" height="551" />
 
-<img src="./img/Eashan10.jpg" width="486" height="364" />
+<img src="/img/Eashan10.jpg" width="486" height="364" />
 
 So it is clear that by following such design pattern layouts, we can
 take advantage of a user’s eye movements in order to structure a webpage
