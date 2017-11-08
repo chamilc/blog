@@ -89,7 +89,7 @@ along the page, as well as being points of interest in the overall page.
 A good example of the Z-pattern in action is the Facebook landing page,
 which is shown below.
 
-<img src="/img/Eashan4.jpg" width="624" height="309" />
+<img src="/img/Eashan4.png" width="624" height="309" />
 
 **The F-pattern**
 
@@ -162,9 +162,9 @@ A popular example of the F-pattern in action would be a Google search
 result, or even the Facebook newsfeed, which are 2 of the most visited
 pages in any internet user’s day to day life.
 
-<img src="/img/Eashan9.jpg" width="624" height="551" />
+<img src="/img/Eashan9.png" width="624" height="551" />
 
-<img src="/img/Eashan10.jpg" width="486" height="364" />
+<img src="/img/Eashan10.jpeg" width="486" height="364" />
 
 So it is clear that by following such design pattern layouts, we can
 take advantage of a user’s eye movements in order to structure a webpage
