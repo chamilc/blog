@@ -20,7 +20,6 @@ This was happened in Our Blessed ones time period. Our Blessed one was at Anāth
 - 84,000 maidens adorned with jeweled earrings.
 - 84,000 lengths of cloth of the finest linen, of finest cotton, of finest silk. 
 - Uncountable amount of food & drinks, staple & non-staple food 
-
 >And so many things as it was like river”
 
 As you do every time can you convert this great gift in to money? It is large isn’t it? But the unhappy part of this story is in that, there was no one worthy of offering, no one purified that gift. Because of that Velāma Brahman earned few amount of merits after donating that much of stuff. After that our Blessed one explained this too.
