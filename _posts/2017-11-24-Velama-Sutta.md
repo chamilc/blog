@@ -44,14 +44,6 @@ As blessed one said that is the maximum you can gain by feeding one person. But 
 >“If one were to feed a community of monks headed by the Buddha, that would be more fruitful than, if one 
 >were feed to a Tathagata.”
 
->“If one were built and dedicated a lodge or stupa to the community of monks of the four directions, that 
->would be more fruitful than, if one were feed to a community of monks headed by the Buddha”
-
-As blessed one said that is the maximum you can gain by feeding one person. But if you like to earn more and more merits there is a way. That is you have to think about community of monks. Now let’s go to the next step.
-
->“If one were to feed a community of monks headed by the Buddha, that would be more fruitful than, if one 
->were feed to a Tathagata.”
-
 >“If one were built and dedicated a lodge or stupa to the community of monks of the four directions, that
 >would be more fruitful than, if one were feed to a community of monks headed by the Buddha”
 
