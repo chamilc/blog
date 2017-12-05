@@ -60,7 +60,7 @@ Engine using Identity Framework. Initially it might look bit complex.
 But once the initial ground work is done, the rest of the work will be
 smooth. I will try to keep things simple as much as possible.
 
-### Step 01
+**Step 01**
 
 Define a custom claim type as “permission”. Claim types are just
 strings. Let’s create a const class to hold the values for consistency.
@@ -72,7 +72,7 @@ public class CustomClaimTypes
 }
 ```
 
-### Step 02
+**Step 02**
 
 Next, we need to identify the areas of the system based on business
 logic and define permissions for those areas. Again these are strings
@@ -95,7 +95,7 @@ public static class Teams
 }
 ```
 
-### Step 03
+**Step 03**
 
 Next step is assigning permission claims to each role based on the
 requirement. This can be done in various ways. For simplicity I create
@@ -125,7 +125,7 @@ do this purely in database level. Or else you can give a UI to configure
 this from the front end. But that might take more time and if there is
 no specific customer requirement, it will be over an over kill.
 
-### Step 04
+**Step 04**
 
 As the next step, we need to add these claims to authentication token or
 cookie (Based on the type of authentication used). I’m not sure in
@@ -166,7 +166,7 @@ By now we have defined a custom claim type, added various claim values
 claims to Auth token/cookie. We are almost there, just couple of steps
 left.
 
-### Step 05
+**Step 05**
 
 Next step is to define Authorization Policies based on the claims. Again
 we are creating a const class to hold the policy names.
@@ -203,7 +203,7 @@ options.AddPolicy(PolicyTypes.Users.Manage, policy => { policy.RequireClaim(Cust
 
 ```
 
-### Step 06
+**Step 06**
 
 By now we have got all we need. Once you have the policies configured,
 next step is to decorate the Controllers and Actions with Authorize
