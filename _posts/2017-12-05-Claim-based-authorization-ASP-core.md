@@ -24,10 +24,9 @@ The most common and simplest approach is to implement Role based
 authorization by decorating Controllers and Actions with Authorize
 attribute with the allowed Role(s).
 
-```\[Authorize(Role=”Manager”)\]
-
+```csharp
+[Authorize(Role=”Manager”)]
 public class IndexController
-
 {
 
 }
@@ -69,10 +68,12 @@ smooth. I will try to keep things simple as much as possible.
 Define a custom claim type as “permission”. Claim types are just
 strings. Let’s create a const class to hold the values for consistency.
 
-```public class CustomClaimTypes
+```csharp
+public class CustomClaimTypes
 {
-public const string Permission = "projectname/permission";
-}```
+    public const string Permission = "projectname/permission";
+}
+```
 
 ### Step 02
 
@@ -81,19 +82,21 @@ logic and define permissions for those areas. Again these are strings
 and, I’m creating a const class to hold these values. Let’s assume our
 system has Users and Teams management areas.
 
-```public static class Users
+```csharp
+public static class Users
 {
-public const string Add = "users.add";
-public const string Edit = "users.edit";
-public const string EditRole = "users.edit.role";
+    public const string Add = "users.add";
+    public const string Edit = "users.edit";
+    public const string EditRole = "users.edit.role";
 }
 
 public static class Teams
 {
-public const string AddRemove = "teams.addremove";
-public const string EditManagers = "teams.edit.managers";
-public const string Delete = "teams.delete";
-}```
+    public const string AddRemove = "teams.addremove";
+    public const string EditManagers = "teams.edit.managers";
+    public const string Delete = "teams.delete";
+}
+```
 
 ### Step 03
 
@@ -102,25 +105,23 @@ requirement. This can be done in various ways. For simplicity I create
 the initial roles and assigned their permission claims in Entity
 Framework Database initializer method (Seed method).
 
-```await roleManager.CreateAsync(new ApplicationRole("Manager"));
+```csharp
+await roleManager.CreateAsync(new ApplicationRole("Manager"));
 
 await roleManager.CreateAsync(new ApplicationRole("User"));
 
 var userRole = await roleManager.FindByNameAsync("User");
 
-await roleManager.AddClaimAsync(userRole, new
-Claim(CustomClaimTypes.Permission, Permissions.User.View));
+await roleManager.AddClaimAsync(userRole, new Claim(CustomClaimTypes.Permission, Permissions.User.View));
 
-await roleManager.AddClaimAsync(userRole, new
-Claim(CustomClaimTypes.Permission, Permissions.Team.View));
+await roleManager.AddClaimAsync(userRole, new Claim(CustomClaimTypes.Permission, Permissions.Team.View));
 
 var managerRole = await roleManager.FindByNameAsync("Manager");
 
-await roleManager.AddClaimAsync(managerRole, new
-Claim(CustomClaimTypes.Permission, Permissions.Users.Add));
+await roleManager.AddClaimAsync(managerRole, new Claim(CustomClaimTypes.Permission, Permissions.Users.Add));
 
-await roleManager.AddClaimAsync(managerRole, new
-Claim(CustomClaimTypes.Permission, Permissions.Teams.Addremove));```
+await roleManager.AddClaimAsync(managerRole, new Claim(CustomClaimTypes.Permission, Permissions.Teams.Addremove));
+```
 
 Role claims are saved in AspNetRoleClaims table. If you prefer you can
 do this purely in database level. Or else you can give a UI to configure
@@ -136,44 +137,31 @@ cookie by default. If not you have to add them manually. In the token
 based approach you should add them manually. Following is how you do it
 in token based model.
 
-```var roles = await \_userManager.GetRolesAsync(user);
+```csharp
+var roles = await _userManager.GetRolesAsync(user);
 
-var userRoles = roles.Select(r =&gt; new Claim(ClaimTypes.Role,
-r)).ToArray();
+var userRoles = roles.Select(r => new Claim(ClaimTypes.Role, r)).ToArray();
 
-var userClaims = await
-\_userManager.GetClaimsAsync(user).ConfigureAwait(false);
-
+var userClaims = await _userManager.GetClaimsAsync(user).ConfigureAwait(false);
 var roleClaims = await GetRoleClaimsAsync(roles).ConfigureAwait(false);
 
-var claims = new\[\]
+var claims = new[]
+             {
+                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
+                 new Claim(ClaimTypes.Email, user.Email),
+                 new Claim(ClaimTypes.Name, user.UserName)
+             }.Union(userClaims).Union(roleClaims).Union(userRoles);
 
-{
-
-new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
-
-new Claim(ClaimTypes.Email, user.Email),
-
-new Claim(ClaimTypes.Name, user.UserName)
-
-}.Union(userClaims).Union(roleClaims).Union(userRoles);
-
-var key = new
-SymmetricSecurityKey(Encoding.UTF8.GetBytes(\_jwtSettings.SigningKey));
-
+var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_jwtSettings.SigningKey));
 var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
 
 var token = new JwtSecurityToken(
+    issuer: _jwtSettings.Issuer,
+    audience: _jwtSettings.Audience,
+    claims: claims,
+    expires: DateTime.UtcNow.AddYears(1),
+    signingCredentials: creds);
 
-issuer: \_jwtSettings.Issuer,
-
-audience: \_jwtSettings.Audience,
-
-claims: claims,
-
-expires: DateTime.UtcNow.AddYears(1),
-
-signingCredentials: creds);
 ```
 
 By now we have defined a custom claim type, added various claim values
@@ -186,55 +174,37 @@ left.
 Next step is to define Authorization Policies based on the claims. Again
 we are creating a const class to hold the policy names.
 
-```public static class PolicyTypes
-
+```csharp
+public static class PolicyTypes
 {
+    public static class Users
+    {
+        public const string Manage = "users.manage.policy";
+        public const string EditRole = "users.edit.role.policy";
+    }
 
-public static class Users
+    public static class Teams
+    {
+        public const string Manage = "teams.manage.policy";
 
-{
-
-public const string Manage = "users.manage.policy";
-
-public const string EditRole = "users.edit.role.policy";
-
-}
-
-public static class Teams
-
-{
-
-public const string Manage = "teams.manage.policy";
-
-public const string AddRemove = "teams.addremove.policy";
-
-}```
+        public const string AddRemove = "teams.addremove.policy";
+    }
+```
 
 After that we need to setup the policies. In Asp.Net Core we will do
 this in “ConfigureServices()” in the Startup.cs. And this logic should
 be placed after configuring Identity.
 
-```services.AddAuthorization(options =&gt;
-
+```csharp
+services.AddAuthorization(options =>
 {
+options.AddPolicy(PolicyTypes.Teams.Manage, policy => { policy.RequireClaim(CustomClaimTypes.Permission, Permissions.Teams.Manage); });
+            options.AddPolicy(PolicyTypes.Teams.AddRemove, policy => { policy.RequireClaim(CustomClaimTypes.Permission, Permissions.Teams.AddRemove); });
+options.AddPolicy(PolicyTypes.Users.Manage, policy => { policy.RequireClaim(CustomClaimTypes.Permission, Permissions.Users.Add); });
+            options.AddPolicy(PolicyTypes.Users.EditRole, policy => { policy.RequireClaim(CustomClaimTypes.Permission, Permissions.Users.EditRole); });
+}
 
-options.AddPolicy(PolicyTypes.Teams.Manage, policy =&gt; {
-policy.RequireClaim(CustomClaimTypes.Permission,
-Permissions.Teams.Manage); });
-
-options.AddPolicy(PolicyTypes.Teams.AddRemove, policy =&gt; {
-policy.RequireClaim(CustomClaimTypes.Permission,
-Permissions.Teams.AddRemove); });
-
-options.AddPolicy(PolicyTypes.Users.Manage, policy =&gt; {
-policy.RequireClaim(CustomClaimTypes.Permission, Permissions.Users.Add);
-});
-
-options.AddPolicy(PolicyTypes.Users.EditRole, policy =&gt; {
-policy.RequireClaim(CustomClaimTypes.Permission,
-Permissions.Users.EditRole); });
-
-}```
+```
 
 ### Step 06
 
@@ -242,18 +212,15 @@ By now we have got all we need. Once you have the policies configured,
 next step is to decorate the Controllers and Actions with Authorize
 attribute along with policies.
 
-```\[Authorize(Policy = PolicyTypes.Teams.Manage)\]
-
-public async Task&lt;IEnumerable&lt;TeamDto&gt;&gt; GetSubTeams(int
-parentId)
-
+```csharp
+[Authorize(Policy = PolicyTypes.Teams.Manage)]
+public async Task<IEnumerable<TeamDto>> GetSubTeams(int parentId)
 {
+    var teams = await _teamService.GetSubTeamsAsync(parentId);
+    return teams;
+ }
 
-var teams = await \_teamService.GetSubTeamsAsync(parentId);
-
-return teams;
-
-> }```
+```
 
 Key Benefits of this Approach
 -----------------------------
