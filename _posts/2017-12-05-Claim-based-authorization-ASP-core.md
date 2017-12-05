@@ -17,8 +17,7 @@ Before proceed, I assume that you have some understanding on Asp.Net
 Core, Identity Framework, Token and Cookie based Authentication and MVC
 architecture.
 
-The Easy and Common Way
------------------------
+**The Easy and Common Way**
 
 The most common and simplest approach is to implement Role based
 authorization by decorating Controllers and Actions with Authorize
@@ -31,8 +30,7 @@ public class IndexController
 
 }
 ```
-Problem with This Approach
-==========================
+**Problem with This Approach**
 
 This approach will work fine for small applications as long as users do
 not want complex functionalities related to permissions. However if you
@@ -55,8 +53,7 @@ permissions. Most likely you will have to modify the existing working
 code, resulting having to perform regression testing each and every time
 which would take significant amount of time.
 
-Claim based Authorization with Identity Core
---------------------------------------------
+**Claim based Authorization with Identity Core**
 
 The proposed solution is to implement a fully customized Authorization
 Engine using Identity Framework. Initially it might look bit complex.
@@ -222,8 +219,7 @@ public async Task<IEnumerable<TeamDto>> GetSubTeams(int parentId)
 
 ```
 
-Key Benefits of this Approach
------------------------------
+**Key Benefits of this Approach**
 
 You can achieve following things without modifying the code. Even if
 there is no UI developed, configuration can be easily done in database
