@@ -1,2 +1,2 @@
 # geveoblog
-Test Blog site for geveo
+Geveo Blog where everyone shares their ideas
