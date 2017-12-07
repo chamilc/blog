@@ -1,7 +1,7 @@
 ---
 title: The Lost Paradise.
-author: By Nalin Marambe
-linkedin: https://lk.linkedin.com/in/wijitha-wijenayake-63813b53/de
+author: Nalin Marambe
+linkedin: 
 ---
 
 To the ancient travelers, Sri Lanka was at the center of paradise. But
