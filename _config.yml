@@ -1,11 +1,11 @@
-# Site settings
-title: Blogs | Life @ Geveo!!!   
-description: "Place to know the life at Geveo."
-company_url: "http//geveo.com"
+1# Site settings
+title: Blogs | The Geveo Blog   
+description: "A place to share your blog posts at Geveo."
+company_url: "http//www.geveo.com"
 url: "http://blog.geveo.com"
 author:
   name: "Geveo Australasia"
-  email: "hello@geveo.com"
+  email: "info@geveo.com"
   url: "http://blog.geveo.com"
 
 # Build settings
@@ -15,7 +15,7 @@ markdown: kramdown
 source: .
 destination: ./_site
 permalink: /:title
-paginate: 5
+paginate: 15
 paginate_path: /page:num/
 
 # Default values
