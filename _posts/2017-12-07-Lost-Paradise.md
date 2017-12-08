@@ -39,14 +39,13 @@ Everything and anything is surrounded by lies and deception. A country
 without values will not contain itself and continue to be chaotic.
 
 Where is that paradise once we had? Seems like, those values, the very
-foundation for a better tomorrow, we have got them all screwed up,
-somewhat similar to a software engineering project built entirely on a
-bad design with loads and loads of spaghetti code.
+foundation for a better tomorrow, we have got them screwed up, somewhat
+similar to a software engineering project built entirely on a bad design
+with spaghetti code, from beginning to end.
 
-Values which cherished in our country for many centuries and we had
-walked away from them. Indeed, we are cracking up as a country. And no
-one seem to care. And being sane in an insane country is certainly had
-become a tough call to many.
+Values which cherished in our country for centuries and we had walked
+away from them. Indeed, our country is cracking up; no one seem to care;
+And being sane in an insane country has become a tough call to many.
 
 *“Democracy cannot succeed unless those who express their choice are
 prepared to choose wisely. The real safeguard of democracy, therefore,
