@@ -1,5 +1,5 @@
 ---
-title: The Lost Paradise.
+title: The Lost Paradise
 author: Nalin Marambe
 linkedin: 
 ---
