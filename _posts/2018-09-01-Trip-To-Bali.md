@@ -65,7 +65,7 @@ It looked so much fun that we booked a hotel close by just to get
 soaked. The person getting soaked in the video is me 🙂 Yea the waves are
 that big: O: O You MUST go here.
 
-<img src="./img/Chandula1.jpg" width="624" height="351" />
+<img src="/img/Chandula1.jpg" width="624" height="351" />
 
 -   **Jimbaran Sea Food Dinner**
 
@@ -80,7 +80,7 @@ personally am not a seafood fan, but this was very tasty. Our table was
 facing the beach and had a view of the runway of the airport, which was
 very relaxing.
 
-<img src="./img/Chandula2.jpg" width="624" height="351" /><img src="./img/Chandula3.jpg" width="624" height="351" />
+<img src="/img/Chandula2.jpg" width="624" height="351" /><img src="/img/Chandula3.jpg" width="624" height="351" />
 
 -   **Mount Batur Volcano, Kintamani**
 
@@ -92,7 +92,7 @@ sight. There is a hike to the top of the volcano, which we were unable
 to do due to jetlag. It is in my bucket list for sure. Do not miss the
 sunrise, which is just beautiful.
 
-<img src="./img/Chandula4.jpg" width="624" height="351" /><img src="./img/Chandula5.jpg" width="624" height="351" />
+<img src="/img/Chandula4.jpg" width="624" height="351" /><img src="/img/Chandula5.jpg" width="624" height="351" />
 
 -   **Oka AgroTourism – Cofee Luwak**
 
@@ -101,7 +101,7 @@ completely new experience and once again the scenery was just beautiful
 to sip a hot cup of coffee/tea. A cup of luwak coffee was priced at five
 USD. They give you to sample different types of tea as well.
 
-<img src="./img/Chandula6.jpg" width="624" height="351" /><img src="./img/Chandula7.jpeg" width="624" height="351" />
+<img src="/img/Chandula6.jpg" width="624" height="351" /><img src="/img/Chandula7.jpeg" width="624" height="351" />
 
 -   **Lunch at Labhagga Restaurant Pacung**
 
@@ -109,7 +109,7 @@ This restaurant offered a memorizing view to dine. Located in a
 beautiful village. The food was very tasty. Balinese are also very
 famous for their duck.
 
-<img src="./img/Chandula8.jpeg" width="600" height="314" /><img src="./img/Chandula9.jpeg" width="600" height="314" />
+<img src="/img/Chandula8.jpeg" width="600" height="314" /><img src="/img/Chandula9.jpeg" width="600" height="314" />
 
 -   **Tanah Lot Temple**
 
@@ -117,3 +117,54 @@ Another beautiful temple located on a rocky island. A pretty amazing
 view of the sunset too. There is actually an audience to watch the
 sunset. I suggested you go early and reserve your place, which is free
 of course, 🙂 🙂
+
+<img src="/img/Chandula10.jpg" width="624" height="351" /><img src="/img/Chandula11.jpg" width="624" height="351" />
+
+-   **Padang Padang Beach**
+
+If you are into surfing this is the beach for you. Getting to the beach
+itself is an interesting mini hike. If you were not a surfer, visiting
+this place would be a waste of time.
+
+<img src="/img/Chandula12.jpg" width="624" height="351" /><img src="/img/Chandula13.jpg" width="624" height="351" />
+
+-   **Honorable Mentions**
+
+[*Melia Bali, Nusa
+Dua*](http://www.tripadvisor.com.au/Hotel_Review-g297698-d302653-Reviews-Melia_Bali_Indonesia-Nusa_Dua_Nusa_Dua_Peninsula_Bali.html)
+
+Gotta say this hotel was lovely and so worth the price. Walking distance
+to Bali Collection, Water blow beach. You will find everything in Bali
+Collection.
+
+[*Harris Hotel
+Jimbaran*](http://www.tripadvisor.com/Hotel_Review-g297696-d4273338-Reviews-HARRIS_Hotel_Bukit_Jimbaran-Jimbaran_Bali.html)
+
+This was a budget hotel and we did not expect much. However, gotta say
+the hotel was very impressive. The rooms were clean and comfortable.
+There are plenty of restaurants and shops around. At the time I visited,
+the hotel was new though.
+
+Get cornrows
+
+Ladies if you want to get cornrows this is the place to do so. You can
+find many stalls, which do cornrows for a cheap price in Bali
+Collection. It takes around an hour or two for long hair.
+
+Pork Ribs at [*iiga warung*](http://www.iigawarung.com/)
+
+If you love pork, you should try out their ribs. Apparently, it is very
+delicious. Sorry that is all I can give, as I do not eat pork. Iâ€™m sure
+it is very tasty because the restaurant was always full and our guide
+swore by it ðŸ™‚
+
+[*Bali Tree top Adventure*](http://www.balitreetop.com/)
+
+This seems so much fun. Unfortunately, we were not aware of it so I was
+not dressed for the occasion (Another for my bucket list ðŸ™‚ ðŸ˜‰
+
+Overall, it was a fun filled couple of days at Bali. Once again
+apologies for the quality of the photos. These were my favorites I am
+sure you have yours. Please do share them with me. I would love to hear
+them ðŸ™‚ ðŸ™‚
+
