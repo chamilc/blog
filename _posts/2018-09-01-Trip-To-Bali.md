@@ -166,5 +166,5 @@ not dressed for the occasion (Another for my bucket list ðŸ™‚ ðŸ˜‰
 Overall, it was a fun filled couple of days at Bali. Once again
 apologies for the quality of the photos. These were my favorites I am
 sure you have yours. Please do share them with me. I would love to hear
-them ðŸ™‚ ðŸ™‚
+them 🙂‚ 🙂
 
