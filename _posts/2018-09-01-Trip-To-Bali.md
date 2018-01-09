@@ -10,7 +10,7 @@ So let us get to the point. Oh yea please excuse the quality of the
 photographs. I do not own a camera; as a result, these were all taken
 from my phone 🙂
 
--   **First Impression the Airport**
+**First Impression the Airport**
 
 There were no direct flights to Bali from my part of the world (Sri
 Lanka) so I had to travel to Singapore and then to Bali. To my surprise
@@ -21,7 +21,7 @@ are a tourist who gets visa on arrival, you may want to rush to those
 counters as soon as you get off the flight as it gets pretty crowded
 each time a flight lands.
 
--   **Money**
+**Money**
 
 The first thing you want to do is get some Bali money (Indonesian
 rupiah). Brace yourselves for a bucket load of cash. 1 USD = 13619 IDR.
@@ -40,7 +40,7 @@ was very trustworthy). It is as if we had our own vehicle in Bali. Here
 goes a few highlights from my trip, which I think every single one of
 you visiting Bail should experience.
 
--   **Water Sports**
+**Water Sports**
 
 Get your swimsuits and sun block ready. You can find many water sport
 providers alongside of the beach in the north of Nusa Dua. Rates are the
@@ -54,7 +54,7 @@ GO. In addition, the water sports people will ask you if you need photos
 taken, for which they will charge extra. Our photos were not that great
 in quality so I recommend not spending extra money on that.
 
--   **Water blow Beach**
+**Water blow Beach**
 
 OMG. This place is so much fun It is a must. If the tide is high, man
 will you be in for a party! This is located in a posh area with fancy
@@ -67,7 +67,7 @@ that big: O: O You MUST go here.
 
 <img src="/img/Chandula1.jpg" width="624" height="351" />
 
--   **Jimbaran Sea Food Dinner**
+**Jimbaran Sea Food Dinner**
 
 If you are a seafood lover this is necessary do for you. The seafood
 cafes are located on the sand in three main groups between Kedonganan in
@@ -82,7 +82,7 @@ very relaxing.
 
 <img src="/img/Chandula2.jpg" width="624" height="351" /><img src="/img/Chandula3.jpg" width="624" height="351" />
 
--   **Mount Batur Volcano, Kintamani**
+**Mount Batur Volcano, Kintamani**
 
 Climate is cold here around 15 degrees. We stayed in a cozy beautiful
 hotel named [*LakeView Eco
@@ -94,7 +94,7 @@ sunrise, which is just beautiful.
 
 <img src="/img/Chandula4.jpg" width="624" height="351" /><img src="/img/Chandula5.jpg" width="624" height="351" />
 
--   **Oka AgroTourism – Cofee Luwak**
+**Oka AgroTourism – Cofee Luwak**
 
 Bali is famous for coffee luwak (poop coffee: P). this farm was a
 completely new experience and once again the scenery was just beautiful
@@ -103,7 +103,7 @@ USD. They give you to sample different types of tea as well.
 
 <img src="/img/Chandula6.jpg" width="624" height="351" /><img src="/img/Chandula7.jpeg" width="624" height="351" />
 
--   **Lunch at Labhagga Restaurant Pacung**
+**Lunch at Labhagga Restaurant Pacung**
 
 This restaurant offered a memorizing view to dine. Located in a
 beautiful village. The food was very tasty. Balinese are also very
@@ -111,7 +111,7 @@ famous for their duck.
 
 <img src="/img/Chandula8.jpeg" width="600" height="314" /><img src="/img/Chandula9.jpeg" width="600" height="314" />
 
--   **Tanah Lot Temple**
+**Tanah Lot Temple**
 
 Another beautiful temple located on a rocky island. A pretty amazing
 view of the sunset too. There is actually an audience to watch the
@@ -120,7 +120,7 @@ of course, 🙂 🙂
 
 <img src="/img/Chandula10.jpg" width="624" height="351" /><img src="/img/Chandula11.jpg" width="624" height="351" />
 
--   **Padang Padang Beach**
+**Padang Padang Beach**
 
 If you are into surfing this is the beach for you. Getting to the beach
 itself is an interesting mini hike. If you were not a surfer, visiting
@@ -128,7 +128,7 @@ this place would be a waste of time.
 
 <img src="/img/Chandula12.jpg" width="624" height="351" /><img src="/img/Chandula13.jpg" width="624" height="351" />
 
--   **Honorable Mentions**
+**Honorable Mentions**
 
 [*Melia Bali, Nusa
 Dua*](http://www.tripadvisor.com.au/Hotel_Review-g297698-d302653-Reviews-Melia_Bali_Indonesia-Nusa_Dua_Nusa_Dua_Peninsula_Bali.html)
