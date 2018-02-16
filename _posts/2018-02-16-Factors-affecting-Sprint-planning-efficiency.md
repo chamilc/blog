@@ -105,6 +105,7 @@ factors.
 | Quality level expectation                      | Team Leadership                                    |
 
 <span id="_Toc475339815" class="anchor"></span> 
+
 **Factors affect for inefficient Sprint Planning**
 
 There are significant number of technical and non-technical factors that
@@ -114,7 +115,7 @@ entire project plan, by achieving sub goals efficiently will help to
 meet ultimate goal efficiently. Therefore, efficient Sprint planning is
 significant for the success of the project.
 
-References
+**References**
 
 Schwaber, K, & Sutherland, J 2016, *The Scrum Guide<sup>TM</sup>: The
 Definitive Guide to *
