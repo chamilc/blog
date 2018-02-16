@@ -104,8 +104,8 @@ factors.
 | Incomplete testing                             | Individual preparation                             |
 | Quality level expectation                      | Team Leadership                                    |
 
-<span id="_Toc475339815" class="anchor"></span> Factors affect for
-inefficient Sprint Planning
+<span id="_Toc475339815" class="anchor"></span> 
+**Factors affect for inefficient Sprint Planning**
 
 There are significant number of technical and non-technical factors that
 influence on the efficiency of Sprint planning. Not all of the above
