@@ -78,8 +78,9 @@ depending on the efficiency of the plan.
 <span id="_Toc475179457" class="anchor"></span> Triple constraint
 tradeoffs \[Source: Internet\]
 
-<img src="/img/Thusitha2.jpeg" width="248" height="237" />To find the
-right balance among the triple constraints for the Sprint, efficient
+<img src="/img/Thusitha2.jpeg" width="248" height="237" />
+
+To find the right balance among the triple constraints for the Sprint, efficient
 Sprint planning is required. Plan should adhere to time, cost and scope
 constraints and must be delivered on time within the cost while meeting
 the agreed scope. Changes in any constraint will result deviation unless
