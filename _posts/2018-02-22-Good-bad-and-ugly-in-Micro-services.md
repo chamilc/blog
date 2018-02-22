@@ -40,33 +40,33 @@ pattern.
 
 -   *Stability*
 
-    Since the micro-service is only focused on the service itself,
-    developers can do a better implementation work of the service and
-    with the decoupled nature of the service, the possibility of
-    failures are lesser compared to monolithic systems.
+> Since the micro-service is only focused on the service itself,
+> developers can do a better implementation work of the service and
+> with the decoupled nature of the service, the possibility of
+> failures are lesser compared to monolithic systems.
 
 -   *Performance*
 
-    No other component is consuming the resources allocated to the
-    micro-service, and the developers can allocate more resources as
-    they needed, hence the performance can be easily maintained over the
-    time and load of data.
+> No other component is consuming the resources allocated to the
+> micro-service, and the developers can allocate more resources as
+> they needed, hence the performance can be easily maintained over the
+> time and load of data.
 
 -   *Scalability*
 
-    Since the micro-service can be independently developed, moved, scale
-    out and deployable to any location, scalability is just needed to be
-    identified what need to be done in the terms of scaling, not what
-    needs to do to the service. Developers only need to allocate more
-    resources, partitioning, indexing or any other
-    performance improvements.
+> Since the micro-service can be independently developed, moved, scale
+> out and deployable to any location, scalability is just needed to be
+> identified what need to be done in the terms of scaling, not what
+> needs to do to the service. Developers only need to allocate more
+> resources, partitioning, indexing or any other
+> performance improvements.
 
 -   *Maintainability*
 
-    The nature of the isolation of the services, developers are allowed
-    to maintain the service by adding more features, fixes and any other
-    development work without impacting the other areas of the
-    big system. Services can be deployed in a better seamless manner.
+> The nature of the isolation of the services, developers are allowed
+> to maintain the service by adding more features, fixes and any other
+> development work without impacting the other areas of the
+> big system. Services can be deployed in a better seamless manner.
 
 **The Bad**
 
@@ -78,10 +78,10 @@ pattern.
 
 -   *Too many technology involvement*
 
-    At the beginning this may not feel as a big deal, but when your
-    project gets growing with many services and other components, it
-    feels like there is a heavy technology stack to work with and feels
-    so heavy on it.
+> At the beginning this may not feel as a big deal, but when your
+> project gets growing with many services and other components, it
+> feels like there is a heavy technology stack to work with and feels
+> so heavy on it.
 
 -   *Identifying the data to be redundant *
 
@@ -115,20 +115,20 @@ pattern.
 
 -   *Experience matters*
 
-    From seniors to juniors in the project team, the past experience on
-    their respective subject area is a matter to pay attention. They
-    should thoroughly understand the differences and similarities of
-    monolithic and micro-services patterns and surrounding theories and
-    practice on them.
+> From seniors to juniors in the project team, the past experience on
+> their respective subject area is a matter to pay attention. They
+> should thoroughly understand the differences and similarities of
+> monolithic and micro-services patterns and surrounding theories and
+> practice on them.
 
 **The Ugly**
 
 -   *Same project micro-services may differ by everything*
 
-    Even within the same project, each micro-service may have different
-    project structure, technology stack, design patterns, etc. So the
-    developer has to learn each micro-service implementation separately
-    before doing any development work with them.
+> Even within the same project, each micro-service may have different
+> project structure, technology stack, design patterns, etc. So the
+> developer has to learn each micro-service implementation separately
+> before doing any development work with them.
 
 -   *New comer has to do a degree to start working*
 
@@ -137,18 +137,18 @@ pattern.
 
 -   *Additional documentations*
 
-    Other than the usual documentations involving with the project,
-    there may be more additional documents with diagrams, and
-    explanations as learning resources for the team members to
-    understand the complex areas of the implementations and related
-    technical areas.
+> Other than the usual documentations involving with the project,
+> there may be more additional documents with diagrams, and
+> explanations as learning resources for the team members to
+> understand the complex areas of the implementations and related
+> technical areas.
 
 -   *Full deployment is a massive operation*
 
-    Doing a full deployment usually takes longer time, but with
-    micro-services its way more time consuming. Also the build and
-    deployment steps has to be carefully scripted or configured to make
-    the process smoother as possible.
+> Doing a full deployment usually takes longer time, but with
+> micro-services its way more time consuming. Also the build and
+> deployment steps has to be carefully scripted or configured to make
+> the process smoother as possible.
 
 -   *Setting up environments and developer machines*
 
@@ -177,29 +177,29 @@ pattern.
 
 -   *Data migrations*
 
-    When releasing the system into production, or due to a later
-    modification, when the team have to do a data migration, it is not
-    going to be just another database. Since there are quiet possible
-    data redundancy took place, they all need to take into consideration
-    before the migrations starts.
+> When releasing the system into production, or due to a later
+> modification, when the team have to do a data migration, it is not
+> going to be just another database. Since there are quiet possible
+> data redundancy took place, they all need to take into consideration
+> before the migrations starts.
 
 -   *Expensive environments*
 
-    Lots of services, and other supportive technologies to facilitate
-    them, and may be lots of storage space and processing needs. The
-    deployment environment need to a solid ground for such a massive
-    system probably a cloud environment. Depending on the hosting vendor
-    the each technology service adds up into to the total
-    hosting expenses.
+> Lots of services, and other supportive technologies to facilitate
+> them, and may be lots of storage space and processing needs. The
+> deployment environment need to a solid ground for such a massive
+> system probably a cloud environment. Depending on the hosting vendor
+> the each technology service adds up into to the total
+> hosting expenses.
 
 -   *Not an everyday project*
 
-    Micro-services architecture is much suitable for a system with high
-    performance, complex, massive number of concurrent users, and
-    geographically distributed system. For many developers these type of
-    projects are not an everyday project. In a way it is a good
-    opportunity for them to learn and practice such a massive system
-    related knowledge.
+>  Micro-services architecture is much suitable for a system with high
+> performance, complex, massive number of concurrent users, and
+> geographically distributed system. For many developers these type of
+> projects are not an everyday project. In a way it is a good
+> opportunity for them to learn and practice such a massive system
+> related knowledge.
 
 **Conclusion**
 
