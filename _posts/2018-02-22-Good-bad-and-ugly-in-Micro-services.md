@@ -83,7 +83,7 @@ pattern.
 > feels like there is a heavy technology stack to work with and feels
 > so heavy on it.
 
--   *Identifying the data to be redundant *
+-   *Identifying the data to be redundant*
 
 > Starting to split out into two micro-services is the beginning of
 > identification of the data to be redundant over the multiple services
