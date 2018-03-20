@@ -42,47 +42,30 @@ Then we can create our partial startup class as follows.
 
 ```csharp
 namespace Demo.WebApi
-
 {
 
-public partial class Startup
+  public partial class Startup
+  {
 
-{
+    public static OAuthAuthorizationServerOptions OAuthOptions { get; private set; }
 
-public static OAuthAuthorizationServerOptions OAuthOptions { get;
-private set; }
+    static Startup()
+    {
+      OAuthOptions = new OAuthAuthorizationServerOptions
+                          {
+                            TokenEndpointPath = new PathString("/oauth/token"),
+                            Provider = new OAuthAppProvider(),
+                            AccessTokenExpireTimeSpan = TimeSpan.FromDays(General.AccessTokenExpiryDays),
+                            AllowInsecureHttp = General.UseHttp
+                          };
 
-static Startup()
+    }
 
-{
-
-OAuthOptions = new OAuthAuthorizationServerOptions
-
-{
-
-TokenEndpointPath = new PathString("/oauth/token"),
-
-Provider = new OAuthAppProvider(),
-
-AccessTokenExpireTimeSpan =
-TimeSpan.FromDays(General.AccessTokenExpiryDays),
-
-AllowInsecureHttp = General.UseHttp,
-
-};
-
-}
-
-public void ConfigureAuth(IAppBuilder app)
-
-{
-
-app.UseOAuthBearerTokens(OAuthOptions);
-
-}
-
-}
-
+    public void ConfigureAuth(IAppBuilder app)
+    {
+      app.UseOAuthBearerTokens(OAuthOptions);
+    }
+  }
 }
 ```
 
@@ -106,23 +89,14 @@ method as follows.
 
 ```csharp
 namespace Demo.WebApi
-
 {
-
-public partial class Startup
-
-{
-
-public void Configuration(IAppBuilder app)
-
-{
-
-ConfigureAuth(app);
-
-}
-
-}
-
+  public partial class Startup
+  {
+    public void Configuration(IAppBuilder app)
+    {
+      ConfigureAuth(app);
+    }
+  }
 }
 ```
 
@@ -130,31 +104,18 @@ The general class would look like this.
 
 ```csharp
 public class General
-
 {
-
-public static bool UseHttp
-
-{
-
-get
-
-{
-
-if (ConfigurationManager.AppSettings\["UseHttp"\] != null)
-
-{
-
-return Convert.ToBoolean(ConfigurationManager.AppSettings\["UseHttp"\]);
-
-}
-
-else return false;
-
-}
-
-}
-
+  public static bool UseHttp
+  {
+    get
+    {
+      if (ConfigurationManager.AppSettings["UseHttp"] != null)
+      {
+      return Convert.ToBoolean(ConfigurationManager.AppSettings["UseHttp"]);
+      }
+      else return false;
+    }
+  }
 }
 ```
 
@@ -172,45 +133,24 @@ this we extract the client id and client secret in the request.
 
 ```csharp
 namespace IPG.WebApi.Provider
-
 {
-
-public partial class OAuthAppProvider : OAuthAuthorizationServerProvider
-
-{
-
-public override Task
-ValidateClientAuthentication(OAuthValidateClientAuthenticationContext
-context)
-
-{
-
-string clientId;
-
-context.TryGetFormCredentials(out clientId, out clientSecret);
-
-if (!string.IsNullOrEmpty(clientId))
-
-{
-
-context.Validated(clientId);
-
-}
-
-else
-
-{
-
-context.Validated();
-
-}
-
-return base.ValidateClientAuthentication(context);
-
-}
-
-}
-
+  public partial class OAuthAppProvider : OAuthAuthorizationServerProvider
+  {
+    public override Task ValidateClientAuthentication(OAuthValidateClientAuthenticationContext context)
+    {
+      string clientId;
+      context.TryGetFormCredentials(out clientId, out clientSecret);
+      if (!string.IsNullOrEmpty(clientId))
+      {
+      context.Validated(clientId);
+      }
+      else
+      {
+      context.Validated();
+      }
+      return base.ValidateClientAuthentication(context);
+    }
+  }
 }
 ```
 
@@ -223,67 +163,34 @@ context object in the subsequent requests.
 ```csharp
 public override Task
 GrantClientCredentials(OAuthGrantClientCredentialsContext context)
-
 {
+  return Task.Factory.StartNew(() =>
+  {
+    try
+    {
+      bool isValid = false;
+      isValid = true; //This should be the Service/DB call to validate the client id, client secret.
+      //ValidateApp(context.ClientId, clientSecret);
 
-return Task.Factory.StartNew(() =&gt;
-
-{
-
-try
-
-{
-
-bool isValid = false;
-
-isValid = true; //This should be the Service/DB call to validate the
-client id, client secret.
-
-//ValidateApp(context.ClientId, clientSecret);
-
-if (isValid)
-
-{
-
-var oAuthIdentity = new
-ClaimsIdentity(context.Options.AuthenticationType);
-
-oAuthIdentity.AddClaim(new Claim("ClientID", context.ClientId));
-
-var ticket = new AuthenticationTicket(oAuthIdentity, new
-AuthenticationProperties());
-
-context.Validated(ticket);
-
-}
-
-else
-
-{
-
-context.SetError("Error", tuple.Item2);
-
-logger.Error(string.Format("GrantResourceOwnerCredentials(){0}Credentials
-not valid for ClientID : {1}.", Environment.NewLine, context.ClientId));
-
-}
-
-}
-
-catch (Exception)
-
-{
-
-context.SetError("Error", "internal server error");
-
-logger.Error(string.Format("GrantResourceOwnerCredentials(){0}Returned
-tuple is null for ClientID : {1}.", Environment.NewLine,
-context.ClientId));
-
-}
-
-});
-
+      if (isValid)
+      {
+        var oAuthIdentity = new ClaimsIdentity(context.Options.AuthenticationType);
+        oAuthIdentity.AddClaim(new Claim("ClientID", context.ClientId));
+        var ticket = new AuthenticationTicket(oAuthIdentity, new AuthenticationProperties());
+        context.Validated(ticket);
+      }
+      else
+      {
+        context.SetError("Error", tuple.Item2);
+        logger.Error(string.Format("GrantResourceOwnerCredentials(){0}Credentials not valid for ClientID : {1}.", Environment.NewLine, context.ClientId));
+      }
+    }
+    catch (Exception)
+    {
+      context.SetError("Error", "internal server error");
+      logger.Error(string.Format("GrantResourceOwnerCredentials(){0}Returned tuple is null for ClientID : {1}.", Environment.NewLine, context.ClientId));
+    }
+  });
 }
 ```
 
@@ -295,47 +202,26 @@ the action method. Following is an example. Create a controller called
 
 ```csharp
 public class PropertyController : ApiController
-
 {
-
-\[Authorize\]
-
-\[HttpGet\]
-
+[Authorize]
+[HttpGet]
 public IHttpActionResult GetProperty(int propertyID)
-
 {
-
-int clientID = OwinContextExtensions.GetClientID();
-
-try
-
-{
-
-//var result = Service or DB Call(clientID, propertyID)
-
-return Json(new
-
-{
-
-PropertyName = string.Format("Property - {0}", propertyID),
-
-Success = true
-
-});
-
+  int clientID = OwinContextExtensions.GetClientID();
+  try
+  {
+    //var result = Service or DB Call(clientID, propertyID)
+    return Json(new
+    {
+      PropertyName = string.Format("Property - {0}", propertyID),
+      Success = true
+    });
+  }
+  catch (Exception ex)
+  {
+    return Content(HttpStatusCode.InternalServerError, ex.Message);
+  }
 }
-
-catch (Exception ex)
-
-{
-
-return Content(HttpStatusCode.InternalServerError, ex.Message);
-
-}
-
-}
-
 }
 ```
 
@@ -345,44 +231,26 @@ these types of extractions. Following shows that extension class.
 
 ```csharp
 public static class OwinContextExtensions
-
 {
+  public static int GetClientID()
+  {
+    int result = 0;
+    var claim = CurrentContext.Authentication.User.Claims.FirstOrDefault(c => c.Type == "ClientID");
 
-public static int GetClientID()
+    if (claim != null)
+    {
+      result = Convert.ToInt32(claim.Value);
+    }
+    return result;
+  }
 
-{
-
-int result = 0;
-
-var claim = CurrentContext.Authentication.User.Claims.FirstOrDefault(c
-=&gt; c.Type == "ClientID");
-
-if (claim != null)
-
-{
-
-result = Convert.ToInt32(claim.Value);
-
-}
-
-return result;
-
-}
-
-public static IOwinContext CurrentContext
-
-{
-
-get
-
-{
-
-return HttpContext.Current.GetOwinContext();
-
-}
-
-}
-
+  public static IOwinContext CurrentContext
+  {
+    get
+    {
+      return HttpContext.Current.GetOwinContext();
+    }
+  }
 }
 ```
 That’s pretty much it. Now we can test the web api using postman as
