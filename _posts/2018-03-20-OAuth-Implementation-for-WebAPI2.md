@@ -21,7 +21,7 @@ connect to a web api with the given client id and client secret. Imagine
 the scenario where all the connected apps will have background processes
 to get and post data through the web api and there are no users
 involved. So in this case it uses client id and client secret to
-generate a token. The following dialog explains the process.
+generate a token. The following diagram explains the process.
 
 <img src="/img/Tharindu1.png" width="611" height="287" />
 
