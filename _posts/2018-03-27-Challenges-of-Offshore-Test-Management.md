@@ -23,7 +23,7 @@ mentioned below.
 > for this challenge. Apart from that, both offshore and onshore teams
 > must follow same process correctly.
 
-1.  Requirements and Domain knowledge gap issues
+2.  Requirements and Domain knowledge gap issues
 
 > *Challenge*: - Offshore test team should have same idea as Onsite team
 > about domain and onsite team should have clear idea about testing
@@ -36,7 +36,7 @@ mentioned below.
 > both teams should try to minimize last minute changes. Moreover,
 > onboarding training should be conduct properly.
 
-1.  Lack of understanding about QA principles of onsite team
+3.  Lack of understanding about QA principles of onsite team
 
 > *Challenge*: - Onsite team especially developers should be have basic
 > idea about main QA principles such as quality metrics, test reports,
@@ -47,7 +47,7 @@ mentioned below.
 > of developers, offshore test management team should give basic
 > training for them.
 
-1.  Language barriers
+4.  Language barriers
 
 > *Challenge*: - Language differences makes project communications
 > difficult. Better communication skills are mandatory for both onshore
@@ -62,7 +62,7 @@ mentioned below.
 > interaction with team could be useful to improve communication skills
 > of team members.
 
-1.  Offshore onshore unbalance
+5.  Offshore onshore unbalance
 
 > *Challenge*: - Offshore onshore balance should depend on percentage of
 > workload each teams got and complexity of the process.
@@ -74,7 +74,7 @@ mentioned below.
 > work done by their teams. They should not rely on onsite team
 > uncovering issue and communicating it to offshore management.
 
-1.  Skills and knowledge gap.
+6.  Skills and knowledge gap.
 
 > *Challenge*: - Skills and expertise may be specialized. Moreover,
 > there may be a risk of bad performance of the vendor.
@@ -88,7 +88,7 @@ mentioned below.
 >
 > - Find out technologies and references, which they are using.
 
-1.  Insufficient communication
+7.  Insufficient communication
 
 > *Challenge*: - This is very critical factor for the success of the
 > project. In spite of the distances between the parties, communication
@@ -106,7 +106,7 @@ mentioned below.
 > interaction with team. Better than just email which can hinder
 > teamwork and collaborative environment
 
-1.  Hidden costs
+8.  Hidden costs
 
 > *Challenge*: - Offshore test management is cost effective but it can
 > include hidden costs like onsite visits of the offshore team members,
@@ -117,7 +117,7 @@ mentioned below.
 > meetings, Hire the expert members are some ways to minimize the hidden
 > costs.
 
-1.  Time zone difference
+9.  Time zone difference
 
 > *Challenge*: - To overcome time zone difference, there must be good
 > coordination and process. Its challenge when something like scheduling
@@ -128,7 +128,7 @@ mentioned below.
 > between offshore and onshore teams. Most productive work should be
 > done while offshore and onshore teams are working at same time.
 
-1.  Offshore team members are not treated as same as onsite team.
+10.  Offshore team members are not treated as same as onsite team.
 
 > *Challenge*: - Low morale and feel disconnected or away of the
 > offshore team members can be affect to project success.
