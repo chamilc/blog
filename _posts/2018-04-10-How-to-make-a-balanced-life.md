@@ -7,7 +7,7 @@ description : balance, life, health
 
 <img src="/img/Uthpala.jpg" width="400" height="300" />
 
-`One strong in faith but weak in wisdom has uncritical and groundless confidence. One strong in wisdom but weak in faith errs on the side of cunning and is as hard to cure as one whose sickness is caused by a medicine. When the two are balanced, one has confidence only where there is ground for it.' (Vism.129).
+***“One strong in faith but weak in wisdom has uncritical and groundless confidence. One strong in wisdom but weak in faith errs on the side of cunning and is as hard to cure as one whose sickness is caused by a medicine. When the two are balanced, one has confidence only where there is ground for it.” (Vism.129).***
 
 Balance is the taking of appropriate action when circumstances dictate to maintain equilibrium. When it comes to a concept or principle such as balance, it is important to understand that between different people and even from moment to moment, the locus of balance is always going to be different. 
 
