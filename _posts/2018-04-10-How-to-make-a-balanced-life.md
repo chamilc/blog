@@ -1,5 +1,5 @@
 ---
-title: How to make a balanced life 
+title: How to make a Balanced Life 
 author: Uthpala Samarawickrama
 linkedin: https://lk.linkedin.com/in/uthpala-samarawickrama-872a20a8/de
 description : balance, life, health
