@@ -61,7 +61,7 @@ By the time we left the chocolate factory, all three of us were so contended abo
 
 At about 9.30 pm we were back in the hotel, talking about the fascinating and memorable day we had. A quick look at the photographs taken throughout the day took another few minutes and then we were in our beds. And that was the end for the culture day!
 
-<img src="/img/chamil_6.jpg" height="500" width="800"/>
+<img src="/img/chamil_6.jpg" height="500" width="600"/>
 
 *One of the nice souvenirs bought*
 
