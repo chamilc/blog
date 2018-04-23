@@ -5,9 +5,6 @@ linkedin: https://lk.linkedin.com/in/chamil800
 description : Bali, Nature, Triiiiing, Tourists
 ---
 
-
-By - *Chamil Chandrathilake (April ’18)*
-
 ‘All passengers on board please fasten your seat belts and prepare for landing!’ The demanding voice of the captain echoed through the speakers as the Boeing 737 aircraft of *Batik Air* descended towards the grounds of *Ngurah Rai International Airport *in the city of *Denpasar*, the capital of the most charming island of Indonesia – Bali. The growling noise of the rotors stopped in a minute and in between the greetings of two pretty Indonesian air hostesses, me, Asanka and Hiran climbed down from the aircraft, starting a memorable journey to an amazing island, described in the entrance of the airport as, ‘*Bali – the last paradise in the world*’! 
 
 Occupying less than a mere 5% of Indonesia, Bali hosts some of the most appealing tourist destinations of the world. Located quite close to the equator in southern hemisphere, Bali has a typical tropical climate. Blessed by the very fact, the nature of the island provides some top class natural beauties including some gorgeous waterfalls, sensational beaches, giant volcanoes and many more. Let alone its nature, the culture of Bali takes care of anyone who visits there have a profound travel experience. Despites Indonesia being the largest Islamic state in the world, about 80% of the people of Bali follow Hinduism. And if you have a short walk along the streets, you surely would witness the unique, Hinduism-based architectural style of Bali, showcased in all the temples, old ruins and even residential buildings. 
@@ -22,11 +19,11 @@ Thus started the culture day and the first place we visited was the Ubud Rice Te
 
 The next place we visited was a temple called ‘*Tirta Empul’*, which is probably the most famous temple near Ubud. It was a couple of miles away from the city center, and it took about a half an hour for us to reach there with our scooters. Asanka, who was in the back seat of Hiran’s scooter had his Google maps open and was giving the directions, and I was following them all the way along. The roads and the surroundings were a little bit similar to Sri Lanka, and one noticeable thing was that the roads were cleaner, and not polluted. It appeared that the suburbs we passed were built upon a proper plan, and more importantly, people have adhered to it with proper attitude.
 
-<img src="/img/chamil_0.jpg" />
+<img src="/img/chamil_0.jpg" height="500" width="800" />
 
 *Bali, the last paradise in the world*
 
-<img src="/img/chamil_1.jpg" />
+<img src="/img/chamil_1.jpg" height="600" width="400" />
 
 *The millionaire in me awakened*
 
@@ -42,19 +39,19 @@ We purchased a few coffee packets from the factory and left the place for just a
 
 Once we reached the chocolate factory, we learned that the process of making chocolate was only showcased through a couple of glassed walls. But what mattered was that in the lobby area, there were about 25 types of chocolate, and you could try a piece of each of them. And yes, as you would have already guessed, we tried all of them. The taste of each type significantly differed from each other, as some tasted mint, some were spicy and so on. My favorites were the dark chocolates, and I bought a bunch of bars which were marked 80% dark, a choice that I could never explain to my mother since the moment I asked her to try a piece back home.
 
-<img src="/img/chamil_2.jpg" />
+<img src="/img/chamil_2.jpg" height="600" width="800"/>
 
 *Holy waters at Tirta Empul*
 
-<img src="/img/chamil_3.jpg" />
+<img src="/img/chamil_3.jpg" height="600" width="800"/>
 
 *Shades of coffee and tea*
 
-<img src="/img/chamil_4.jpg" />
+<img src="/img/chamil_4.jpg" height="600" width="800"/>
 
 *The Luwac animal*
 
-<img src="/img/chamil_5.jpg" />
+<img src="/img/chamil_5.jpg" height="600" width="800"/>
 
 *3kg of happiness!*
 
@@ -64,23 +61,23 @@ By the time we left the chocolate factory, all three of us were so contended abo
 
 At about 9.30 pm we were back in the hotel, talking about the fascinating and memorable day we had. A quick look at the photographs taken throughout the day took another few minutes and then we were in our beds. And that was the end for the culture day!
 
-<img src="/img/chamil_6.jpg" />
+<img src="/img/chamil_6.jpg" height="500" width="800"/>
 
 *One of the nice souvenirs bought*
 
-<img src="/img/chamil_7.jpg" />
+<img src="/img/chamil_7.jpg" height="700" width="800"/>
 
 *Coffee of us!*
 
-<img src="/img/chamil_8.jpg" />
+<img src="/img/chamil_8.jpg" height="800" width="600"/>
 
 *The Ubud palace*
 
-<img src="/img/chamil_9.jpg" />
+<img src="/img/chamil_9.jpg" height="700" width="800"/>
 
 *The Sisya dance*
 
-<img src="/img/chamil_10.jpg" />
+<img src="/img/chamil_10.jpg" height="700" width="800"/>
 
 *Delicious Mie Goreng*
 
@@ -102,19 +99,19 @@ We stayed at the top for quite a while enjoying the great sceneries and then sta
 
 It took a less than an hour more for us to reach the bottom, and we bid adieu to Sintya and left for our next destination – the ‘*Sekumpul waterfalls’*. It was around 70 kilo meters away and we had enough time to have a little nap as we were sleepy, tired and hungry. The waterfalls were located in a rural area of Bali, and it was not a common tourist attraction due to the distance from the capital. Watching the villages and the people on the way was a pleasing sight, and by the noon we reached the ticket counter of the waterfalls. 
 
-<img src="/img/chamil_11.jpg" />
+<img src="/img/chamil_11.jpg" height="600" width="800"/>
 
 *The sunrise behind us*
 
-<img src="/img/chamil_12.jpg" />
+<img src="/img/chamil_12.jpg" height="600" width="800"/>
 
 *The view from the top of Mt Batur*
 
-<img src="/img/chamil_13.jpg" />
+<img src="/img/chamil_13.jpg" height="600" width="800"/>
 
 *The sick monkey*
 
-<img src="/img/chamil_14.jpg" />
+<img src="/img/chamil_14.jpg" height="600" width="800"/>
 
 *Lava meets water*
 
@@ -130,15 +127,15 @@ Kuta was the place for party in Bali. The road along the beach consisted of pubs
 
 The sad feeling had prevailed in me throughout the night, as it was the only thing that was in my mind when I woke up the next day. The departure was scheduled at 4.20 pm in the evening but due to the warnings we got about the traffic in the city of Denpasar, we decided to leave the hotel a bit earlier. The famous monkey forest in Ubud was the only place we visited that day, and by the noon we waved good bye to the friendly crew at the ‘*Bakung Ubud’* hotel and travelled back to the Ngurah Rai International Airport in Denpasar, silently thinking about the valor of the past three days. 
 
-<img src="/img/chamil_15.jpg" />
+<img src="/img/chamil_15.jpg" height="600" width="800"/>
 
 *The Sekumpul waterfalls*
 
-<img src="/img/chamil_16.jpg" />
+<img src="/img/chamil_16.jpg" height="600" width="800"/>
 
 *The Sekumpul waterfalls*
 
-<img src="/img/chamil_17.jpg" />
+<img src="/img/chamil_17.jpg" height="600" width="800"/>
 
 *The three of us*
 
