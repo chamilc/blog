@@ -81,7 +81,6 @@ At about 9.30 pm we were back in the hotel, talking about the fascinating and me
 
 <p align="center"><i>Delicious Mie Goreng</i></p>
 
-*  *  *  *  *
 
 "Triiiiing"! I was in a deep sleep when a loud noise filled up my ears and almost threw me out of the bed. It was after few seconds that I saw both Asanka and Hiran, frowning at the telephone sitting on their beds. The clock read 2 am and it was the reminder call for us from the hotel crew to start yet another exciting day. *Mount Batur* – the second highest volcano in Bali was waiting for us, to unveil the Sun to start the much awaited nature day! We packed our stuff in a hurry, the driver had already arrived, and thus started the Nature day in freezing cold.
 
