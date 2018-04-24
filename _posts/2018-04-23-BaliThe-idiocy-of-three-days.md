@@ -25,7 +25,7 @@ The next place we visited was a temple called ‘*Tirta Empul’*, which is prob
 
 <img src="/img/chamil_1.jpg" height="400" width="300" />
 
-*The millionaire in me awakened*
+<p align="center"><i>The millionaire in me awakened</i></p>
 
 The *Tirta Empul* temple appeared to be one of the largest in the island.  There were plenty of old structures around the premises and all of them shared the same architecture and the same set of colors – shades of orange and brown. To enter the temple premises, you need to wear a cloth which covers your body entirely, and as expected, we needed to donate some money in order to burrow such a cloth from the temple. The temple was well-known for its holy waters and there was a pond in which people got themselves a holy bath. We excluded this activity from our plan due to the prototypes we had on such ponds but surprisingly, the water in the pond was crystal clear!
 
@@ -41,19 +41,19 @@ Once we reached the chocolate factory, we learned that the process of making cho
 
 <img src="/img/chamil_2.jpg" height="350" width="500"/>
 
-*Holy waters at Tirta Empul*
+<p align="center"><i>Holy waters at Tirta Empul</i></p>
 
 <img src="/img/chamil_3.jpg" height="300" width="500"/>
 
-*Shades of coffee and tea*
+<p align="center"><i>Shades of coffee and tea</i></p>
 
 <img src="/img/chamil_4.jpg" height="350" width="500"/>
 
-*The Luwac animal*
+<p align="center"><i>The Luwac animal</i></p>
 
 <img src="/img/chamil_5.jpg" height="350" width="500"/>
 
-*3kg of happiness!*
+<p align="center"><i>3kg of happiness!</i></p>
 
 By the time we left the chocolate factory, all three of us were so contended about the culture day. But it wasn’t the end. We have booked tickets for the open air cultural show at the *Ubud Palace*, which was to start at 7.00 pm. As we had few hours left, we visited a waterfall which was on the way, and reached the palace by 6.30 in the evening. Since we had skipped the lunch and only fed ourselves with chocolate and coffee, we decided to have the dinner before we visit the show. The menus in Bali always had options of rice and noodles, and it seemed that the most popular types were ‘*Nasi Goreng’* and ‘*Mie Goreng’*, a version of rice and a version of noodles.  The food was always delicious in Bali so we could finish the dinner without much trouble, and then it was the time for the final event of the day – the show.
 
@@ -63,23 +63,23 @@ At about 9.30 pm we were back in the hotel, talking about the fascinating and me
 
 <img src="/img/chamil_6.jpg" height="350" width="350"/>
 
-*One of the souvenirs I bought*
+<p align="center"><i>One of the souvenirs I bought</i></p>
 
 <img src="/img/chamil_7.jpg" height="350" width="500"/>
 
-*Coffee for us!*
+<p align="center"><i>Coffee for us!</i></p>
 
 <img src="/img/chamil_8.jpg" height="500" width="350"/>
 
-*The Ubud palace*
+<p align="center"><i>The Ubud palace</i></p>
 
 <img src="/img/chamil_9.jpg" height="350" width="500"/>
 
-*The Sisya dance*
+<p align="center"><i>The Sisya dance</i></p>
 
 <img src="/img/chamil_10.jpg" height="350" width="500"/>
 
-*Delicious Mie Goreng*
+<p align="center"><i>Delicious Mie Goreng</i></p>
 
 *  *  *  *  *
 
@@ -101,19 +101,19 @@ It took a less than an hour more for us to reach the bottom, and we bid adieu to
 
 <img src="/img/chamil_11.jpg" height="350" width="500"/>
 
-*The sunrise behind us*
+<p align="center"><i>The sunrise behind us</i></p>
 
 <img src="/img/chamil_12.jpg" height="350" width="500"/>
 
-*The view from the top of Mt Batur*
+<p align="center"><i>The view from the top of Mt Batur</i></p>
 
 <img src="/img/chamil_13.jpg" height="350" width="500"/>
 
-*The sick monkey*
+<p align="center"><i>The sick monkey</i></p>
 
 <img src="/img/chamil_14.jpg" height="350" width="500"/>
 
-*Lava meets water*
+<p align="center"><i>Lava meets water</i></p>
 
 With the guide we hired, we walked about two miles into the jungle when the site of an unreal set of waterfalls appeared in front of us. There were about 7 waterfalls in a single view, most of them about 80 meters tall and they defined the meaning of the word ‘breathtaking’! Asanka described it as the most beautiful piece of nature he had ever seen and I couldn’t agree more. My good camera is so clever at capturing the best scenes but this was one big exception where it couldn’t capture anywhere near the real beauty of these waterfalls. Like a magnet that attracts little iron pins, we were dragged by the waterfall’s beauty into its water and it was one of the best waters I have ever got into. But it was less than a half an hour that we spent in the water as a quick rain started to fall, and our guide alarmed us of a possible sudden rise of water level.
 
@@ -129,15 +129,15 @@ The sad feeling had prevailed in me throughout the night, as it was the only thi
 
 <img src="/img/chamil_15.jpg" height="350" width="500"/>
 
-*The Sekumpul waterfalls*
+<p align="center"><i>The Sekumpul waterfalls</i></p>
 
 <img src="/img/chamil_16.jpg" height="350" width="500"/>
 
-*The Sekumpul waterfalls*
+<p align="center"><i>The Sekumpul waterfalls</i></p>
 
 <img src="/img/chamil_17.jpg" height="350" width="500"/>
 
-*The three of us*
+<p align="center"><i>The three of us</i></p>
 
 At the gate number 6 of Terminal 1 waited the Batik air ID 6516 which would carry us to Jakarta – our destination for the next two days. We got on board in few minutes and yet again, the captain demanded all the passengers to fasten their seat belts. And he hadn’t have known how sad three of the passengers were, as he piloted the aircraft upwards inch by inch, and had the memories had a physical weight, he would have been unable to do it due to the heaviness of three of us. And if you wondered why I named it ‘*The idiocy of three days’*, here’s the answer. Only idiots limit a trip to Bali to three days!
 
