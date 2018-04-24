@@ -21,7 +21,7 @@ The next place we visited was a temple called ‘*Tirta Empul’*, which is prob
 
 <img src="/img/chamil_0.jpg" height="350" width="500" />
 
-*Bali, the last paradise in the world*
+<p align="center"><i>Bali, the last paradise in the world</i></p>
 
 <img src="/img/chamil_1.jpg" height="400" width="300" />
 
