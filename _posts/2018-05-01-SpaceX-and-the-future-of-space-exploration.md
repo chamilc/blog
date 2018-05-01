@@ -17,36 +17,36 @@ Let’s do a quick comparison between the the most powerful rocket the world has
 
 <img src="/img/amila_0.png" height="600" width="400" />
 
-<table>
-  <tr>
-    <td></td>
-    <td>Saturn V</td>
-    <td>Falcon Heavy</td>
+<table border="1">
+  <tr >
+    <td border="1"></td>
+    <td border="1">Saturn V</td>
+    <td border="1">Falcon Heavy</td>
   </tr>
-  <tr>
-    <td>Purpose</td>
-    <td>Built specially to send Apollo missions to the Moon</td>
-    <td>A general purpose rocket to serve a variety of missions</td>
+  <tr >
+    <td border="1">Purpose</td>
+    <td border="1">Built specially to send Apollo missions to the Moon</td>
+    <td border="1">A general purpose rocket to serve a variety of missions</td>
   </tr>
-  <tr>
-    <td>Payload to low earth orbit</td>
-    <td>140 tons</td>
-    <td>64 tons</td>
+  <tr >
+    <td border="1">Payload to low earth orbit</td>
+    <td border="1">140 tons</td>
+    <td border="1">64 tons</td>
   </tr>
-  <tr>
-    <td>Payload to Moon orbit</td>
-    <td>49 tons </td>
-    <td>23 tons</td>
+  <tr >
+    <td border="1">Payload to Moon orbit</td>
+    <td border="1">49 tons </td>
+    <td border="1">23 tons</td>
   </tr>
-  <tr>
-    <td>Payload to Mars orbit</td>
-    <td></td>
-    <td>17 tons </td>
+  <tr >
+    <td border="1">Payload to Mars orbit</td>
+    <td border="1"></td>
+    <td border="1">17 tons </td>
   </tr>
-  <tr>
-    <td>Launch price (2018 USD)</td>
-    <td>$1.2Billion</td>
-    <td>$90Million</td>
+  <tr >
+    <td border="1">Launch price (2018 USD)</td>
+    <td border="1">$1.2Billion</td>
+    <td border="1">$90Million</td>
   </tr>
 </table>
 
