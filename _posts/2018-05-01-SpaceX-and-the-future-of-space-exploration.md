@@ -69,7 +69,7 @@ Currently they are recovering the first stage boosters by landing them back on e
 
 SpaceX being the cool company it is has released this video of booster landing failure compilation. You wouldn’t want to miss that.
 
-[https://www.youtube.com/watch?v=bvim4rsNHkQ](https://www.youtube.com/watch?v=bvim4rsNHkQ)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bvim4rsNHkQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 And here’s a simplified graphic of the stages in a Falcon 9 launch including booster landing at sea.
 
