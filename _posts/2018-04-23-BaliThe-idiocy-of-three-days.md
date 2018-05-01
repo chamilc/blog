@@ -140,5 +140,6 @@ The sad feeling had prevailed in me throughout the night, as it was the only thi
 
 At the gate number 6 of Terminal 1 waited the Batik air ID 6516 which would carry us to Jakarta – our destination for the next two days. We got on board in few minutes and yet again, the captain demanded all the passengers to fasten their seat belts. And he hadn’t have known how sad three of the passengers were, as he piloted the aircraft upwards inch by inch, and had the memories had a physical weight, he would have been unable to do it due to the heaviness of three of us. And if you wondered why I named it ‘*The idiocy of three days’*, here’s the answer. Only idiots limit a trip to Bali to three days!
 
-Checkout the short video of the trip - https://www.youtube.com/watch?v=IUG9fmbUboc
+Checkout the short video of the trip
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IUG9fmbUboc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
