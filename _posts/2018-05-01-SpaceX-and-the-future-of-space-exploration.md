@@ -7,7 +7,6 @@ description : SpaceX, Future, Space
 
 Ok. If you weren’t living under a rock the past few months, you might have seen (at least heard of) the Falcon Heavy rocket launch by SpaceX. In case you were living under a rock, here’s the live streamed video from SpaceX’s youtube channel.
 
-[https://youtu.be/wbSwFU6tY1c?t=1309](https://youtu.be/wbSwFU6tY1c?t=1309)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wbSwFU6tY1c?start=1295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 What’s the big deal? You might ask. People have been sending rockets for decades and we have even sent people ([12](https://en.wikipedia.org/wiki/Category:People_who_have_walked_on_the_Moon)) to the moon and brought them back. Alive!
@@ -124,5 +123,5 @@ Wow! Looks like there’s a lot to look forward in the next few years. Aren’t 
 
 Let me put it like this. Hundred years back, if I told you that you can go halfway around the world in a couple of hours, you would have laughed and though I’m a nutcase. Similarly, in a hundred years from now our grandchildren might be living on Mars! Future is going to be great!
 
-https://www.youtube.com/watch?v=t9c7aheZxls 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t9c7aheZxls" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
