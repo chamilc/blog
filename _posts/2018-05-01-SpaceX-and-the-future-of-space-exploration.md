@@ -8,6 +8,7 @@ description : SpaceX, Future, Space
 Ok. If you weren’t living under a rock the past few months, you might have seen (at least heard of) the Falcon Heavy rocket launch by SpaceX. In case you were living under a rock, here’s the live streamed video from SpaceX’s youtube channel.
 
 [https://youtu.be/wbSwFU6tY1c?t=1309](https://youtu.be/wbSwFU6tY1c?t=1309)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wbSwFU6tY1c?start=1295" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 What’s the big deal? You might ask. People have been sending rockets for decades and we have even sent people ([12](https://en.wikipedia.org/wiki/Category:People_who_have_walked_on_the_Moon)) to the moon and brought them back. Alive!
 
