@@ -101,19 +101,19 @@ Good luck SpaceX! Is there anyone else doing the same thing?
 
 Of course. Where’s the fun without a little competition? There’s quite a bit of competition in building cheaper and reusable launch systems at the moment.
 
-**[United Launch Allianc**e](https://www.ulalaunch.com)
+**[United Launch Alliance](https://www.ulalaunch.com)**
 
 ULAs’ current heavy lift rocket is the [Delta-IV](https://www.ulalaunch.com/rockets/delta-iv) which costs around $350Million per launch. Since it can carry about half the payload of the Falcon Heavy at more that 3 times the cost, ULA has started working on a more powerful and partially reusable launch system called [Vulcan](https://www.ulalaunch.com/rockets/vulcan-centaur) which will recycle the engines of the boosters.
 
-**[Blue Origi**n](https://www.blueorigin.com/)
+**[Blue Origin](https://www.blueorigin.com/)**
 
 Founded by Jeff Bezos (Amazon founder), the Blue Origin has announced plans for a reusable launch system called [New Glenn](https://www.blueorigin.com/new-glenn). They are planning to debut the new rocket in 2020 which will use a recoverable rocket booster similar to SpaceX.
 
-**[Stratolaunc**h](http://www.stratolaunch.com/)
+**[Stratolaunch](http://www.stratolaunch.com/)**
 
 Utilizing six Boeing 747 engines for a payload capacity of around 23 tons Stratolaunch will be capable of delivering payloads to multiple orbits and inclinations in a single mission. They are planning to have a fully capable system at the beginning of 2020.
 
-**[NAS**A](https://www.nasa.gov)
+**[NASA](https://www.nasa.gov)**
 
 Although not necessarily a business competition, NASA has been working on it’s next generation Saturn V replacement for some time now. Named as [SLS (Space Launch System)](https://www.nasa.gov/exploration/systems/sls/index.html) it will be a Mammoth amongst all the other rockets ever built. Nasa is planning to launching the first SLS rocket in 2020.
 
