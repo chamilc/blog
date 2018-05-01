@@ -1,7 +1,7 @@
 ---
 title: SpaceX and the future of space exploration
 author: Amila Lakshitha Ariyarathna
-linkedin: 
+linkedin: https://www.linkedin.com/in/amilaariyarathna/
 description : SpaceX, Future, Space
 ---
 
@@ -17,7 +17,7 @@ Let’s do a quick comparison between the the most powerful rocket the world has
 
 <img src="/img/amila_0.png" height="600" width="400" />
 
-<table border="1">
+<table border="1" style="border-collapse: collapse;">
   <tr >
     <td border="1"></td>
     <td border="1">Saturn V</td>
