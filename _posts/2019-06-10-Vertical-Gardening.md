@@ -1,10 +1,7 @@
 
----
-title: Vertical Gardening
-author: Anuradha Malalasena
-linkedin: https://www.linkedin.com/in/bamalalasena/
-description : Gardening
----
+|  title     | author           |    linkedin          |   description   |
+| :-------------: |:-------------:| :-----:            |:-----:|
+| Vertical Gardening     | Anuradha Malalasena |https://www.linkedin.com/in/bamalalasena/ |Gardening|
 
 
 # Vertical Gardening
