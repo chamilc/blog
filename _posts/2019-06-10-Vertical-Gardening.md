@@ -1,10 +1,9 @@
-
-|  title     | author           |    linkedin          |   description   |
-| :-------------: |:-------------:| :-----:            |:-----:|
-| Vertical Gardening     | Anuradha Malalasena |https://www.linkedin.com/in/bamalalasena/ |Gardening|
-
-
-# Vertical Gardening
+---
+title: Vertical Gardening
+author: Anuradha Malalasena
+linkedin: https://www.linkedin.com/in/bamalalasena/
+description : Gardening, eco-friendly
+---
 
 Cities are called concrete jungles for obvious reasons. As we can see more and more concrete landscapes around us, we are realizing the more and more importance of greenery. With most homes shrinking in size, home gardening has become nearly impossible. However, hardcore gardeners have found a way around this – vertical gardens.
 
