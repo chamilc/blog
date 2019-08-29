@@ -42,7 +42,7 @@ DIY vertical gardening ideas
 
 Here are few ideas you can try,
 
-1. 1)Gutter Garden <img src="/img/Anuradha9.jpg" width="600" height="438" />
+1. Gutter Garden <img src="/img/Anuradha9.jpg" width="600" height="438" />
 2. 2)Plastic Bottle Vertical Garden <img src="/img/Anuradha10.jpg" width="630" height="420" />
 3. 3)Rack Vertical Garden <img src="/img/Anuradha11.jpg" width="453" height="679" />
 4. 4)Pot Vertical Garden <img src="/img/Anuradha12.jpg" width="700" height="495" />
