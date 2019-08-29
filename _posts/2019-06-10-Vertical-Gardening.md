@@ -1,6 +1,10 @@
-|  title     | author           |    linkedin          |   description   |
-| :-------------: |:-------------:| :-----:            |:-----:|
-| Vertical Gardening     | Anuradha Malalasena |https://www.linkedin.com/in/bamalalasena/ |Gardening|
+
+---
+title: Vertical Gardening
+author: Anuradha Malalasena
+linkedin: https://www.linkedin.com/in/bamalalasena/
+description : Gardening
+---
 
 
 # Vertical Gardening
@@ -9,14 +13,14 @@ Cities are called concrete jungles for obvious reasons. As we can see more and m
 
 Vertical gardens are an eco-friendly way of turning a boring wall or a balcony from drab to fab. Traditional gardeners have done similar things with climbing plants like squashes and beans by building trellises. Vertical gardening takes it one step further, by giving non-climbing plants with shallow roots a space on the wall. Put very simply, a vertical garden is a way to encourage fruits, vegetables, herbs or flowers to grow up instead of down on the ground, by means of some kind of support or structure. It can be done in the ground, in containers, on a wall, or even without soil.
 
-Pros
+**Pros**
 
 - Plants are easier to reach (more convenient to fertilizing, watering, pruning and harvesting).
 - Getting plants up and off the ground improves air circulation (healthier plants and less pest and disease problems).
 - Improve both indoor and outdoor air quality.
 - A living natural shield can insulate a building from heat, air pollution or noise.
 
-Cons
+**Cons**
 
 - If they are built too high, they can be difficult to maintain.
 - The support system must be strong enough to handle the weight.
@@ -24,31 +28,31 @@ Cons
 
 The possible ways a vertical garden might look are endless, from the very simple and cheap to the breathtakingly complex and expensive. Here are some vertical garden around.
 
-<img src="/img/Anuradha2.jpg" width="600" height="400" /> 
+<img src="/img/Anuradha2.jpg" width="700" height="400" /> 
 
-<img src="/img/Anuradha3.jpg" width="600" height="400" />
+<img src="/img/Anuradha3.jpg" width="700" height="400" />
 
-<img src="/img/Anuradha4.jpg" width="600" height="400" />
+<img src="/img/Anuradha4.jpg" width="700" height="400" />
 
-<img src="/img/Anuradha5.jpg" width="600" height="400" />
+<img src="/img/Anuradha5.jpg" width="700" height="400" />
 
-<img src="/img/Anuradha6.jpg" width="600" height="400" />
+<img src="/img/Anuradha6.jpg" width="700" height="400" />
 
-<img src="/img/Anuradha7.jpg" width="600" height="400" />
+<img src="/img/Anuradha7.jpg" width="700" height="400" />
 
-<img src="/img/Anuradha8.jpg" width="600" height="400" />
+<img src="/img/Anuradha8.jpg" width="700" height="400" />
 
 DIY vertical gardening ideas
 
 Here are few ideas you can try,
 
 1. Gutter Garden 
-<img src="/img/Anuradha9.jpg" width="600" height="400" />
+<img src="/img/Anuradha9.jpg" width="700" height="400" />
 2. Plastic Bottle Vertical Garden 
-<img src="/img/Anuradha10.jpg" width="600" height="400" />
+<img src="/img/Anuradha10.jpg" width="700" height="400" />
 3. Rack Vertical Garden 
-<img src="/img/Anuradha11.jpg" width="600" height="400" />
+<img src="/img/Anuradha11.jpg" width="700" height="400" />
 4. Pot Vertical Garden 
-<img src="/img/Anuradha12.jpg" width="600" height="400" />
+<img src="/img/Anuradha12.jpg" width="700" height="400" />
 5. Geo-textile Vertical Garden 
-<img src="/img/Anuradha13.jpg" width="600" height="400" />
+<img src="/img/Anuradha13.jpg" width="700" height="400" />
