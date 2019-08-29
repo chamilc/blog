@@ -24,31 +24,31 @@ Vertical gardens are an eco-friendly way of turning a boring wall or a balcony f
 
 The possible ways a vertical garden might look are endless, from the very simple and cheap to the breathtakingly complex and expensive. Here are some vertical garden around.
 
-<img src="/img/Anuradha2.jpg" width="700" height="400" /> 
+<img src="/img/Anuradha2.jpg" width="640" height="480" /> 
 
-<img src="/img/Anuradha3.jpg" width="700" height="400" />
+<img src="/img/Anuradha3.jpg" width="720" height="720" />
 
-<img src="/img/Anuradha4.jpg" width="700" height="400" />
+<img src="/img/Anuradha4.jpg" width="1200" height="800" />
 
-<img src="/img/Anuradha5.jpg" width="700" height="400" />
+<img src="/img/Anuradha5.jpg" width="419" height="600" />
 
-<img src="/img/Anuradha6.jpg" width="700" height="400" />
+<img src="/img/Anuradha6.jpg" width="800" height="534" />
 
-<img src="/img/Anuradha7.jpg" width="700" height="400" />
+<img src="/img/Anuradha7.jpg" width="800" height="600" />
 
-<img src="/img/Anuradha8.jpg" width="700" height="400" />
+<img src="/img/Anuradha8.jpg" width="660" height="924" />
 
 DIY vertical gardening ideas
 
 Here are few ideas you can try,
 
 1. Gutter Garden 
-<img src="/img/Anuradha9.jpg" width="700" height="400" />
+<img src="/img/Anuradha9.jpg" width="600" height="438" />
 2. Plastic Bottle Vertical Garden 
-<img src="/img/Anuradha10.jpg" width="700" height="400" />
+<img src="/img/Anuradha10.jpg" width="630" height="420" />
 3. Rack Vertical Garden 
-<img src="/img/Anuradha11.jpg" width="700" height="400" />
+<img src="/img/Anuradha11.jpg" width="453" height="679" />
 4. Pot Vertical Garden 
-<img src="/img/Anuradha12.jpg" width="700" height="400" />
+<img src="/img/Anuradha12.jpg" width="700" height="495" />
 5. Geo-textile Vertical Garden 
-<img src="/img/Anuradha13.jpg" width="700" height="400" />
+<img src="/img/Anuradha13.jpg" width="975" height="650" />
